@@ -1,0 +1,891 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The best acquaintance and highest honour of Christians, or, A discourse of acquaintance with God by Matthew Newcomen.</title>
+            <author>Newcomen, Matthew, 1610?-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 133 KB of XML-encoded text transcribed from 65 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53085</idno>
+            <idno type="STC">Wing N905</idno>
+            <idno type="STC">ESTC R32164</idno>
+            <idno type="EEBO-CITATION">12351311</idno>
+            <idno type="OCLC">ocm 12351311</idno>
+            <idno type="VID">60027</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53085)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60027)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1020:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The best acquaintance and highest honour of Christians, or, A discourse of acquaintance with God by Matthew Newcomen.</title>
+                  <author>Newcomen, Matthew, 1610?-1669.</author>
+               </titleStmt>
+               <extent>[2], 126 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Knowableness.</term>
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60027:1"/>
+            <pb facs="tcp:60027:1" rendition="simple:additions"/>
+            <p>THE Beſt Acquaintance AND HIGHEST HONOUR OF CHRISTIANS. OR, A DISCOURSE of Ac<g ref="char:EOLhyphen"/>quaintance with GOD.</p>
+            <p>By <hi>Matthew Newcomen,</hi> Miniſter of the Goſpel.</p>
+            <q>
+               <bibl>
+                  <hi>Job 22.21.</hi>
+               </bibl>
+               <p>Acquaint now thy ſelf with him, and be at peace.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>John 8.16.</hi>
+               </bibl>
+               <p>I am not alone, but I and the Father which hath ſent me.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 Cor. 1.9.</hi>
+               </bibl>
+               <p>God is faithful, by whom ye are called unto the fellowſhip of his Son Chriſt Jeſus our Lord.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 John 1.3.</hi>
+               </bibl>
+               <p>And truly our fellowſhip is with the father and with his Son Chriſt Jeſus.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>James 2.23.</hi>
+               </bibl>
+               <p>Abraham believed God, and it was accounted to him for righteouſneſs, and he was called the friend of God.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pſal. 149.10.</hi>
+               </bibl>
+               <p>This honour have all his Saints.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>John 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </bibl>
+               <p>Henceforth I call you not ſervants, but I <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> called you friends.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:60027:2"/>
+            <pb n="1" facs="tcp:60027:2" rendition="simple:additions"/>
+            <head>THE Beſt Acquaintance, AND <hi>Higheſt Honour,</hi> OF CHRISTIANS.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Job 22. verſ. 21.</hi>
+                  </bibl>
+                  <p>Acquaint now thy ſelf with him, and be at peace: thereby good ſhall come un<g ref="char:EOLhyphen"/>to thee.</p>
+               </q>
+            </epigraph>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> The opening of the words, and of the nature of the great duty of acquain<g ref="char:EOLhyphen"/>ting our ſelves with God.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He words are the words of <hi>Eliphaz,</hi> one of <hi>Job's</hi> three friends, and as it ſhould ſeem, the chiefeſt of the three, either for
+<pb n="2" facs="tcp:60027:3" rendition="simple:additions"/>
+                  <hi>age,</hi> or <hi>dignity,</hi> or <hi>wiſdom:</hi> for the other two give him the priority in ſpeaking. He having in the beginning of the Chapter given <hi>Job a bitter pill</hi> to chew upon, in <hi>verſ.</hi> 5, 6, 7. that he might not leave the mind of <hi>Job</hi> exulcera<g ref="char:EOLhyphen"/>ted, towards the latter end of his diſcourſe <hi>attempers his ſpeech</hi> to a milder and ſweeter ſtrain, giving him firſt <hi>counſel, verſ.</hi> 21, 22. then promiſing him <hi>comfort, verſ.</hi> 23. to the end.</p>
+               <p>In this 21. <hi>v.</hi> we have two things. <hi>Officium, Beneficium. A work</hi> to be done, or a duty to be performed by <hi>Job,</hi> and indeed <hi>by every one.</hi> And that in theſe words. <hi>Acquaint now thy ſelf with him.</hi> 2. A <hi>benefit</hi> to be obtained by the performance of this duty, and that is peace and good. <hi>Ac<g ref="char:EOLhyphen"/>quaint now thy ſelf with him, and be at peace: ſo ſhall good come unto thee.</hi>
+               </p>
+               <p>
+                  <hi>Acquaint.</hi> The word tranſla<g ref="char:EOLhyphen"/>ted <hi>acquaint</hi> is diverſly rendred
+<pb n="3" facs="tcp:60027:3"/>by Interpreters. The <hi>Chaldee</hi> paraphraſe renders it, <hi>Learn of him;</hi> The <hi>Greek,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>be thou hard or ſtout,</hi> meaning pa<g ref="char:EOLhyphen"/>tient in bearing Affliction. The Vulgar Latine, <hi>Acquieſce ei.</hi> Mun<g ref="char:EOLhyphen"/>ſter, <hi>Conveniat tibi cum eo.</hi> The <hi>Syriack</hi> and <hi>Arabick, Coaequa te ei.</hi> The <hi>Tigurine, Accommoda te illi.</hi> Coccejus, <hi>Fac periculum. Pagnine</hi> and <hi>Junius, Aſſueſce te illi.</hi> The <hi>French, Accointe-toy.</hi> An old <hi>Engliſh</hi> tranſlation reads it, <hi>Reconcile thy ſelf unto him.</hi> Our Tranſlation reads it, <hi>Acquaint thy ſelf with him.</hi> Making choice of a word that takes in both the <hi>Chaldees, diſce ab eo.</hi> And the vulgars, <hi>Acquiſce;</hi> and the <hi>Tigu<g ref="char:EOLhyphen"/>rine, Accommoda te illi.</hi> And <hi>Munſters, Conveniat tibi cum eo.</hi> And the old <hi>Engliſh, Reconcile thy ſelf to him.</hi> As we ſhall ſee after<g ref="char:EOLhyphen"/>wards God willing.<note n="*" place="margin">The Hebrew word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> hath (as many o<g ref="char:EOLhyphen"/>ther words in the He<g ref="char:EOLhyphen"/>brew) va<g ref="char:EOLhyphen"/>rious ſig<g ref="char:EOLhyphen"/>nifications, and ſome of them ſeemingly contrary to others, as <hi>Prodeſ<g ref="char:EOLhyphen"/>ſe, Incre<g ref="char:EOLhyphen"/>pare, ar<g ref="char:EOLhyphen"/>guere, aſ<g ref="char:EOLhyphen"/>ſueſcere, theſauri<g ref="char:EOLhyphen"/>zare, re<g ref="char:EOLhyphen"/>condere, nocere, de<g ref="char:EOLhyphen"/>pauperare, periclitari</hi> ſignificatione <hi>Rabbinis</hi> conſuerâ. <hi>Pagnin.</hi> The ſeptuagint render it ſometimes by <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, ſome<g ref="char:EOLhyphen"/>times by <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, ſometimes by <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, ſome<g ref="char:EOLhyphen"/>times by <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, ſometimes by <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, ſome<g ref="char:EOLhyphen"/>times by <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, ſometimes by <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Kircher. Marius de Calaſio</hi> obſerves four principal acceptations of the word in Scripture. 1. <hi>Prodeſſe,</hi> or <hi>utilem eſſe.</hi> 2. <hi>Theſaurizare.</hi> 3. <hi>Calefacere.</hi> 4. <hi>De<g ref="char:EOLhyphen"/>pauperare,</hi> to which he adds a fifth of the <hi>Rabbins</hi> and <hi>Chaldees,</hi> which is, <hi>periculum facere,</hi> or <hi>pericli<g ref="char:EOLhyphen"/>tari.</hi> And this great difference of ſignifications which this word is capable of, is the reaſon why there is ſo great variety in the tranſlation of this Text.</note>
+               </p>
+               <pb n="4" facs="tcp:60027:4"/>
+               <p>The word in the Original tranſlated <hi>acquaint,</hi> is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which is uſed in that Conjugation <hi>Hi<g ref="char:EOLhyphen"/>phil,</hi> but in two places beſides this in all the Scripture. The one is <hi>Numb.</hi> 22.30. where <hi>Ba<g ref="char:EOLhyphen"/>laams</hi> aſs ſaith to him, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Nunquid aſſueſcendo aſ<g ref="char:EOLhyphen"/>ſuetus ſum; <hi>Was I ever wont to do thus.</hi> The other is, <hi>Pſal.</hi> 139.2. where the <hi>Pſalmiſt</hi> ſaith, <hi>Thou art acqainted with all my wayes.</hi> In the Original it is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which our ſinging Pſalms accord<g ref="char:EOLhyphen"/>ing to the Emphaſis of the Ori<g ref="char:EOLhyphen"/>ginal well render. <hi>And by fami<g ref="char:EOLhyphen"/>liar
+<pb n="5" facs="tcp:60027:4"/>cuſtom art acquainted with my wayes.</hi>
+               </p>
+               <p>Acquaint thy ſelf <hi>now:</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is an expletive particle, and ſignifies as much as <hi>nunc, ideo, quaeſo,</hi> and accordingly ſome here read, Acquaint <hi>now</hi> thy ſelf. Others, acquaint <hi>therefore</hi> thy ſelf. Others, acquaint I pray thee thy ſelf. It is a particle that implies <hi>ſeriouſneſs</hi> in him that ſpeaks, and <hi>weight</hi> and <hi>moment</hi> in the thing that is ſpoken of.</p>
+               <p>Acquaint now thy ſelf <hi>with him,</hi> that is, with God. The Almighty ſpoken of before, <hi>v.</hi> 17. and again <hi>v.</hi> 23. <hi>Acquaint thy ſelf with him, and be at peace,</hi> that is, thou ſhalt be at peace; for ſo, as the learned <hi>Mercer</hi> ob<g ref="char:EOLhyphen"/>ſerves, it is uſual with the He<g ref="char:EOLhyphen"/>brews to put the Imperative mood for the Future tenſe. Thou ſhalt be at peace: <hi>thereby good ſhall come unto thee.</hi> Good, that is all kind of good, <hi>Temporal, Spiritual,</hi> and <hi>Eternal,</hi> as is ex<g ref="char:EOLhyphen"/>emplified
+<pb n="6" facs="tcp:60027:5"/>afterwards in the fol<g ref="char:EOLhyphen"/>lowing verſes, to the end of the Chapter. That which from the words thus opened commends it ſelf to our obſervation is this.</p>
+               <p>
+                  <hi>That the great concernment of every man is to acquaint himſelf with God.</hi> I ſay, The great concern<g ref="char:EOLhyphen"/>ment of every man, that which every man ſhould make his greateſt ſtudy and buſineſs, and look upon himſelf as moſt con<g ref="char:EOLhyphen"/>cerned in, is to acquaint himſelf with God.</p>
+               <p>I ſhall immediately fall upon the opening of the Nature of this acquainting our ſelves with God in theſe three particulars that are neceſſarily included in it.</p>
+               <p>Firſt, This acquainting our ſelves with God implies <hi>a true and right knowledge of God.</hi> For you will all readily conclude, it is impoſſible for a man to have acquaintance with a perſon
+<pb n="7" facs="tcp:60027:5"/>whom he hath never had any knowledge of. If a man ſhould come to one of us, and name to us a man that lives at <hi>Rome</hi> or <hi>Conſtantinople,</hi> or the <hi>Indies,</hi> and ask us if we be acquainted with ſuch a man, we would pre<g ref="char:EOLhyphen"/>ſently ſay we do not ſo much as know him, therefore how ſhould we have any acquaintance with him? Ignorance of God you know is rendred as a reaſon of mens being eſtranged from God:<note place="margin">Epheſ. 4.18.</note> therefore they that would have acquaintance with God, muſt la<g ref="char:EOLhyphen"/>bour to know God. This <hi>David</hi> exacts of his ſon <hi>Solomon.</hi> And <hi>thou</hi> Solomon <hi>my ſon,</hi>
+                  <note place="margin">1 Chron. 28.9.</note> 
+                  <hi>know thou the God of thy Fathers,</hi> &amp;c.</p>
+               <p>Now there is a threefold knowledge of God. A know<g ref="char:EOLhyphen"/>ledge by the <hi>ear.</hi> A knowledge by the <hi>eye.</hi> And a knowledge by the <hi>taſte.</hi> Or if you will, A knowledge of <hi>notion</hi> or <hi>ſpecula<g ref="char:EOLhyphen"/>tion.</hi> A knowledge of <hi>faith.</hi> And a knowledge of <hi>experience.</hi> And
+<pb n="8" facs="tcp:60027:6" rendition="simple:additions"/>all this neceſſary to our ac<g ref="char:EOLhyphen"/>quaintance with God.</p>
+               <p>Firſt, There is a knowledge of God that is a knowledge of notion or ſpeculation, when men know there is a God, and who, and what this God is, and how he is diſtinguiſhed from all other perſons and things whatſoever. <q>That he is a Spirit, or ſpiritual ſubſtance, one in eſſence, di<g ref="char:EOLhyphen"/>ſtinguiſhed into three equally bleſſed, and glorious Perſons, the eternal beginning of all be<g ref="char:EOLhyphen"/>ings, the incomprehenſible Author and fountain of all life and motion, the almighty Crea<g ref="char:EOLhyphen"/>tor, upholder, and ruler of the whole univerſe, who is all life, and all wiſdom, and all power, and all goodneſs, and all truth, and all bleſſedneſs, and all glo<g ref="char:EOLhyphen"/>ry, whoſe truth, power, good<g ref="char:EOLhyphen"/>neſs, mercy, glory, is his very eſſence, and being.</q> This know<g ref="char:EOLhyphen"/>ledge men may have of God by the hearing of the ear; and this
+<pb n="9" facs="tcp:60027:6" rendition="simple:additions"/>men may have, and yet have no acquaintance with God; this knowledge alone is not ſufficient to acquaintance with God, and yet this is ſo neceſſary, that without it there can be no ac<g ref="char:EOLhyphen"/>quaintance.</p>
+               <p>There is therefore, Secondly, A further degree of knowledge, &amp; that is a knowledge of God by the eye; and this is that which we call the knowledge of Faith. Faith you know is compared to the eye, and though Faith it ſelf come by hearing, and the knowledge that we get by hear<g ref="char:EOLhyphen"/>ing, is preparatory to the know<g ref="char:EOLhyphen"/>ledge of Faith, yet it is not the very knowledge of faith; no, that imports ſomething more.</p>
+               <p>Now there is a twofold faith. A faith of effectual perſwaſion, whereby the ſoul yields ſuch a full and effectual aſſent to the things it knows, as that the heart is affected towards them, and with them, according to the na<g ref="char:EOLhyphen"/>ture
+<pb n="10" facs="tcp:60027:7"/>of them. Secondly, There is a faith of particular applica<g ref="char:EOLhyphen"/>tion, whereby the ſoul applies to it ſelf the things that it knows, as its own portion. Proportion<g ref="char:EOLhyphen"/>ably there is a double knowledge of God by faith.</p>
+               <p>Firſt, The knowledge of the faith of effectual perſwaſion, whereby the ſoul doth by the eye of faith ſee God in his nature, and attributes, and glory, ſo clearly and evidently, that his eye affects his heart with love, and fear, and reverence, and all holy affections anſwerable to the goodneſs and greatneſs of that God whom by faith he ſeeth. And he ſaith with <hi>Job, Now mine eye ſeeth thee,</hi>
+                  <note place="margin">Job 42.5, 6.</note> 
+                  <hi>wherefore I abhor my ſelf, and repent in duſt and aſhes.</hi>
+               </p>
+               <p>Secondly, There is a know<g ref="char:EOLhyphen"/>ledge of God by faith, which is the faith of particular applica<g ref="char:EOLhyphen"/>tion; that is, when a man ſo knows God, as that he knows him to be his God in particular,
+<pb n="11" facs="tcp:60027:7"/>and can ſay with <hi>Thomas My Lord and my God.</hi> And can joyn with the Church in heart as well as voice in ſinging that, <hi>Pſal.</hi> 48.14. <hi>This God is our God for ever and ever.</hi> Now the firſt of theſe, that is, ſuch a knowledge of God as may effectually work our hearts to the love, and reve<g ref="char:EOLhyphen"/>rence, and fear of God, to de<g ref="char:EOLhyphen"/>ſire after him, and delight in him; this is abſolutely neceſſary to our acquainting our ſelves with God, for without this we ſhall never indeed ſeek ac<g ref="char:EOLhyphen"/>quaintance with God, nor prize, but ſlight it; and without this God will never condeſcend to acquaint himſelf with us, but diſdain and abhor us; therefore this knowledge of God is neceſ<g ref="char:EOLhyphen"/>ſary <hi>ad ipſum eſſe,</hi> to the very be<g ref="char:EOLhyphen"/>ing of our acquaintance with God. But then the other know<g ref="char:EOLhyphen"/>ledge of God by faith, that is, by the faith of a particular ap<g ref="char:EOLhyphen"/>plication this is indeed neceſſa<g ref="char:EOLhyphen"/>ry,
+<pb n="12" facs="tcp:60027:8"/>
+                  <hi>ad bene eſſe,</hi> to our more free and comfortable acquainting our ſelves, and converſing with God. For as he ſaid, <hi>Quid mihi Deus ſi non meus.</hi> What is God to me, if he be not mine? yet this is not ſo abſolutely neceſſary to our firſt acquainting our ſelves with God as the former, but is rather a fruit, and a conſequent of our acquainting our ſelves with God.</p>
+               <p>There is a third knowledge of God, and that is a knowledge of Experience. In Scripture phraſe, men are ſaid to know thoſe things that they have experience of, and not to know thoſe things that they have had no experience of, And this experimental know<g ref="char:EOLhyphen"/>ledge is in Scripture in ſpecial manner called Acquaintance. It is ſaid of the Lord Chriſt, That <hi>he was a man of ſorrows,</hi>
+                  <note place="margin">Iſa. 53.3.</note> 
+                  <hi>and ac<g ref="char:EOLhyphen"/>quainted with griefs.</hi> That is, he had felt, and taſted, and had ex<g ref="char:EOLhyphen"/>perience of griefs and ſorrows
+<pb n="13" facs="tcp:60027:8"/>of all kinds. Now this is an ex<g ref="char:EOLhyphen"/>perimental knowledge; ſuch a knowledge of God as this, is that which the Apoſtle <hi>John</hi> ſpeaks of, <hi>That which we have heard,</hi>
+                  <note place="margin">1 Job. 1.1.</note> 
+                  <hi>which we have ſeen with our eyes, which our hands have handled of the word of life, declare we unto you.</hi> And this is that which <hi>Peter</hi> ſup<g ref="char:EOLhyphen"/>poſeth in the Saints.<note place="margin">1 Pet. 2.3.</note> 
+                  <hi>If ſo be that ye have taſted that the Lord is gra<g ref="char:EOLhyphen"/>cious.</hi>
+               </p>
+               <p>A ſecond thing included in this acquaintance with God, it is peace and reconciliation with God. Therefore <hi>Munſter,</hi> as I told you, renders the word, <hi>Con<g ref="char:EOLhyphen"/>veniat tibi cum eo.</hi> Make agree<g ref="char:EOLhyphen"/>ment with him. And our old <hi>Engliſh</hi> tranſlation renders it, <hi>Reconcile thy ſelf to him.</hi> This we muſt know, that we are all by na<g ref="char:EOLhyphen"/>ture not only meer ſtrangers to God, for then a little matter might bring us into acquaintance with him, ſo gracious is he, and communicative of himſelf and
+<pb n="14" facs="tcp:60027:9" rendition="simple:additions"/>love; but we are enemies to God, and God is an enemy to us. We that are infinitely be<g ref="char:EOLhyphen"/>neath him, are enemies to him <hi>unjuſtly,</hi> and without cauſe; and have done him all the miſ<g ref="char:EOLhyphen"/>chief and deſpite that poſſibly we can; and he is <hi>juſtly</hi> become an enemy to us. And while terms ſtand thus, what acquaint<g ref="char:EOLhyphen"/>ance can there be between God and us? Will any man take one into his acquaintance, that hath been his <hi>ancient, conſtant,</hi> and <hi>bitter</hi> enemy, till firſt he be re<g ref="char:EOLhyphen"/>conciled to him? What King would take an open enemy into his Court, and make him his fa<g ref="char:EOLhyphen"/>vourite, till-firſt he hath made his peace with him? <hi>Can two walk together except they be agreed?</hi>
+                  <note place="margin">Amos 3.3.</note> ſaith God by the Prophet. We muſt be reconciled to God, and get our peace made in Chriſt, if we would acquaint our ſelves with him. That is a ſecond thing included in this acquaintance
+<pb n="15" facs="tcp:60027:9" rendition="simple:additions"/>with God. Acquaintance is on<g ref="char:EOLhyphen"/>ly between friends, therefore friends and acquaintance are <hi>Sy<g ref="char:EOLhyphen"/>nonyma,</hi> both in our ordinary language, and in the language of Scripture, <hi>Pſal.</hi> 55.13.</p>
+               <p>A third thing implyed in this acquaintance with God, it is converſe with God. A conver<g ref="char:EOLhyphen"/>ſing familiarly with God, as one friend converſeth with another. Only this we muſt take notice of, That among men there is a twofold friendſhip and familia<g ref="char:EOLhyphen"/>rity, either <hi>inter pares,</hi> or <hi>inter inoequales.</hi> And where familiari<g ref="char:EOLhyphen"/>ty and converſe is between thoſe, between whom there is great in<g ref="char:EOLhyphen"/>equality, there it muſt be ma<g ref="char:EOLhyphen"/>naged with that <hi>decorum</hi> that be<g ref="char:EOLhyphen"/>comes the diſtance that is be<g ref="char:EOLhyphen"/>tween their perſons. As ſuppoſe a King ſhould take an affection to ſome mean and ordinary per<g ref="char:EOLhyphen"/>ſon, and take him into intimate converſe with himſelf, this Man muſt not think now to treat the
+<pb n="16" facs="tcp:60027:10" rendition="simple:additions"/>King as he would do one with whom he is, as we ſay, <hi>hail fellow well met:</hi> but with much reve<g ref="char:EOLhyphen"/>rence, and obſerving the di<g ref="char:EOLhyphen"/>ſtance that is between the King and him, or elſe he may quickly forfeit his intereſt in the Kings favour, and familiarity: So here, the diſtance between God and us is infinite, therefore we muſt manage our converſe and fami<g ref="char:EOLhyphen"/>liarity with God with loweſt hu<g ref="char:EOLhyphen"/>mility, and greateſt reverence, and a deportment of our ſelves every way anſwerable to the di<g ref="char:EOLhyphen"/>ſtance that is between God and us.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="17" facs="tcp:60027:10"/>
+               <head>
+                  <hi>CHAP. II.</hi> Of Converſe with God, and wherein it conſiſts.</head>
+               <p>NOw this converſe and fa<g ref="char:EOLhyphen"/>miliarity with God, ſo far as it is to be managed and car<g ref="char:EOLhyphen"/>ried on by us, conſiſts in theſe ſeven particulars.</p>
+               <p>
+                  <hi>Firſt.</hi> In a <hi>frequent and daily viſiting of God.</hi> Friends and Ac<g ref="char:EOLhyphen"/>quaintance, you know they do often viſit one another, and that is the way to get and keep ac<g ref="char:EOLhyphen"/>quaintance: ſo ſhould we often viſit God. Firſt, By <hi>ſhort and e<g ref="char:EOLhyphen"/>jaculatory prayers.</hi> Secondly, By <hi>ſet and ſolemn prayers every day, morning and evening.</hi>
+               </p>
+               <p>And we muſt look upon this, not as matter of courteſie but of duty. It was anciently a cuſtom among the <hi>Romans,</hi> that the meaner ſort of people among them, did conſtantly go every
+<pb n="18" facs="tcp:60027:11"/>morning to the houſe of ſome or other of the Senators or chief men of <hi>Rome,</hi> whom they had choſen for their patron, and ſo<g ref="char:EOLhyphen"/>lemnly ſalute him;<note place="margin">Alex. ab Alex. li. <hi>5.</hi> c. <hi>24.</hi>
+                  </note> and this the great man looked for from his clients as their duty, and this the poor people looked upon as their concernment and advantage, this being the <hi>means</hi> to retain him ſtil for their friend and patron. I find alſo, that among the ſame <hi>Romans</hi> it was a cuſtom in the families of great Perſons, that all the Chil<g ref="char:EOLhyphen"/>dren and ſervants of the family ſhould every morning come in a body together into the preſence of the Lord, and Maſter of the family, and give him a ſo<g ref="char:EOLhyphen"/>lemn <hi>Salve,</hi> and every evening make their appearance together again before him, and give him a ſolemn <hi>Vale:</hi> God is that So<g ref="char:EOLhyphen"/>vereign Lord and Father, of whom the whole family of hea<g ref="char:EOLhyphen"/>ven and earth is named, as the Apoſtle <hi>Paul</hi> ſpeaks; ſhould not
+<pb n="19" facs="tcp:60027:11"/>therefore all his Children, all his Servants, and all his Friends vi<g ref="char:EOLhyphen"/>ſit him and ſalute him morning and evening with their prayers? There are ſome indeed that ne<g ref="char:EOLhyphen"/>ver viſit God but when they are in extremities, like thoſe, <hi>Iſa.</hi> 26.16. <hi>Lord, in trouble they have viſited thee.</hi>
+               </p>
+               <p>
+                  <hi>A Second</hi> thing in which this converſe with God conſiſts, is in a being much in the preſence and company of God. Friends and acquaintance, you know, they do not only viſit one another,<note place="margin">Ne valeam ſi non totis Deciane, diebus. Et tecum totis noctibus eſſe velim <hi>Martial.</hi>
+                  </note> but they ſtay ſome while each with other, they cannot content them<g ref="char:EOLhyphen"/>ſelves with ſhort viſits, with a how do you, and no more; but they love to be in the preſence and company of one another, and if it were poſſible, and if their other neceſſary occaſions would permit it, they would never part, they would be together al the day long. So it is here in this con<g ref="char:EOLhyphen"/>verſe with God; there is not
+<pb n="20" facs="tcp:60027:12"/>only a viſiting of God frequent<g ref="char:EOLhyphen"/>ly and daily, every morning and every evening, but there is an abiding in the preſence of God. What is that? Why there is a twofold preſence of God. There is a <hi>general preſence</hi> of God whereby we are preſent unto God,<note place="margin">Pſal. 139.7.</note> God ſeeing and beholding us, and this is no more than is common to all the creatures up<g ref="char:EOLhyphen"/>on earth, yea to the devils and damned in hell: and there is a <hi>ſpecial preſence</hi> of God, whereby God is preſent unto us, and we do in the ſecret of our ſouls ap<g ref="char:EOLhyphen"/>prehend him as really preſent to us, as if we ſaw him with our eyes. Of this <hi>David</hi> ſpeaks, <hi>Pſal.</hi> 16.8. <hi>I have ſet the Lord alwayes before me.</hi> Now it is this preſence of God in which this Converſe with God conſiſts, when the Soul doth apprehend in it ſelf that God is preſent with him, and ſet himſelf as in the preſence of God, this is a piece of the
+<pb n="21" facs="tcp:60027:12"/>Souls converſe with God. To be, as we alwayes are, in the general preſence of God, with<g ref="char:EOLhyphen"/>out the ſpecial apprehenſions of his preſence, is rather a hinde<g ref="char:EOLhyphen"/>rance to converſe and acquaint<g ref="char:EOLhyphen"/>ance with God, than any thing elſe. If the beſt friend I have in the world ſhould come into the room where I were, and paſs too and again by me, and ſtand right before me, all the day long, I ſhould be ſo buſie in talking with other men, about other matters, that I ſhould not re<g ref="char:EOLhyphen"/>gard him, nor take any notice of him, and this one day after ano<g ref="char:EOLhyphen"/>ther; this were the way rather to break off the intercourſe and acquaintance that is between us, than to continue it: So here, wherever we are, God is preſent with us, before us, behind us, round about us; if our heads and hearts be ſo taken up with the world, and luſts and vanities, that we mind not God, though
+<pb n="22" facs="tcp:60027:13"/>preſent, nor take no notice of him, this is the way rather to loſe than to gain acquaintance with God. If therefore we would converſe with God, we muſt take notice of, and acknowledge the preſence of God. Firſt, by a frequent and actual remem<g ref="char:EOLhyphen"/>brance of him, and lifting up our thoughts and deſires to him. Secondly, by a reverent de<g ref="char:EOLhyphen"/>meanour of our ſelves continu<g ref="char:EOLhyphen"/>ally, as before him. This is that the holy Ghoſt calls for. <hi>In all thy wayes acknowledge him.</hi>
+                  <note place="margin">Prov. 3.6. chap. 23.17.</note> And, <hi>Be thou in the fear of the Lord all the day long.</hi> And this, they that have any acquaintance with God deſire to be, and do, to acknow<g ref="char:EOLhyphen"/>ledge God in all their wayes, to be in the thoughts of God, and in the apprehenſions and breath<g ref="char:EOLhyphen"/>ings after God all the day long, and it is their grief that they can be ſo no more, and they can at at leaſt ſay with <hi>David,</hi> That <hi>the thoughts of God are precious to them,</hi>
+                  <note place="margin">Pſal. 139.17.</note>
+                  <pb n="23" facs="tcp:60027:13"/>as the preſence of an intimate friend is precious unto us, and it grieves us that we can have no more of it. Beſides this, there is a <hi>ſolemn preſence</hi> of God in his Ordinances, in regard of which, they which attend theſe Ordi<g ref="char:EOLhyphen"/>nances are ſaid to appear before God, and to ſtand in the preſence of the Lord. And God hath ap<g ref="char:EOLhyphen"/>pointed ſet and ſolemn times for all that are or would be acquaint<g ref="char:EOLhyphen"/>ed with him, thus to appear be<g ref="char:EOLhyphen"/>fore him, and to ſtand in his pre<g ref="char:EOLhyphen"/>ſence, and in our ſo doing con<g ref="char:EOLhyphen"/>ſiſts a great part of our acquaint<g ref="char:EOLhyphen"/>ance with God.</p>
+               <p>
+                  <hi>A third</hi> thing wherein this Converſe with God ſtands, is in our improving God, and our in<g ref="char:EOLhyphen"/>tereſt in him, and acquaintance with him. If I have one that is my intimate friend &amp; acquaintance, this is the benefit I have by it, I have one now into whoſe boſom I can intruſt all my ſecrets, and eaſe all my griefs and troubles,
+<pb n="24" facs="tcp:60027:14"/>I have one with whom I can con<g ref="char:EOLhyphen"/>ſult in all my difficult and weigh<g ref="char:EOLhyphen"/>ty affairs, with whom I may make bold in all my wants and exigencies; ſo I neither can, nor will do, with another that is a ſtranger, and none of my ac<g ref="char:EOLhyphen"/>quaintance. True friendſhip and acquaintance ſtands not in bare words and complemental viſits, but in real communication of offices and benefits: ſo here, con<g ref="char:EOLhyphen"/>verſe and acquaintance with God ſtands in our improving God, and our intereſt in him, ſo as to acquaint him with all our ſe<g ref="char:EOLhyphen"/>crets, ſo as to impart unto him all our griefs and fears, ſo as to relie upon him to guide us in all our wayes, and to ſupply all our wants. This God looks we ſhould do, and takes it unkindly when we do otherwiſe: as a true friend that is willing and able to help his friend, takes it unkind<g ref="char:EOLhyphen"/>ly if he go to any other, thinks himſelf either diſtruſted or
+<pb n="25" facs="tcp:60027:14"/>ſlighted, and it is almoſt a mat<g ref="char:EOLhyphen"/>ter of falling out between them; ſo God takes it unkindly, when we in our wants, or fears, or ſtreights, in any kind whatſo<g ref="char:EOLhyphen"/>ever, go to any creature in hea<g ref="char:EOLhyphen"/>ven or earth, but only to him; <hi>God</hi> even falls out with us upon it. What ſaith he?<note place="margin">2 Kings 1.3.</note> 
+                  <hi>Is it not becauſe there is not a God in</hi> Iſrael, <hi>that ye go to enquire of</hi> Baalzebub <hi>the god of</hi> Ekron?</p>
+               <p>
+                  <hi>A fourth</hi> thing wherein this converſe and acquaintance with God conſiſts, is in our compli<g ref="char:EOLhyphen"/>ance with God. Among men you ſee, he that would have ac<g ref="char:EOLhyphen"/>quaintance, and keep acquaint<g ref="char:EOLhyphen"/>ance with one, eſpecially that is his ſuperiour, he muſt ſtudy com<g ref="char:EOLhyphen"/>pliance, he muſt be careful to accommodate himſelf to the genius and diſpoſition of the o<g ref="char:EOLhyphen"/>ther, and be as it were trans<g ref="char:EOLhyphen"/>formed and moulded into his ve<g ref="char:EOLhyphen"/>ry image. <hi>Amicus alter idem.</hi> So it is here, this converſe with
+<pb n="26" facs="tcp:60027:15"/>God conſiſts in a complying with God. Therefore, as I ſaid before, the <hi>Tigurine</hi> tranſlation renders the word. <hi>Accommoda te illi.</hi> Ac<g ref="char:EOLhyphen"/>commodate thy ſelf to him. There can be no converſe, no ac<g ref="char:EOLhyphen"/>quaintance with God, unleſs we reſign and accommodate our ſelves to him, and comply with him in all things. <hi>Ais aio. Negas nego.</hi> To ſay as God ſaith, to like what he likes, to diſlike what he diſlikes, to love what he loves, and to hate what he hates; this is the way to converſe and ac<g ref="char:EOLhyphen"/>quaintance with God.</p>
+               <p>
+                  <hi>A fifth</hi> thing wherein this converſe and acquaintance with God conſiſts, is in a wiſe ob<g ref="char:EOLhyphen"/>ſerving his goings towards us, and his dealings with us, and in a thankful acknowledging even the leaſt of his favours and cour<g ref="char:EOLhyphen"/>teſies beſtowed upon us. Thus we deal with men, there is none of us all, but if a friend of ours ſend us but a ſmall token, or do
+<pb n="27" facs="tcp:60027:15"/>us a ſmall courteſie, we think our ſelves ingaged in point of common humanity, to take no<g ref="char:EOLhyphen"/>tice of it, and thank him for it; that is common between friends, and that is the way to continue friendſhip: O that we could be as punctual, and as exact with God this way, as we are with men; but who is there that doth not receive many more mercies from God, than he takes notice of, or acknowledgeth with thankfulneſs?</p>
+               <p>
+                  <hi>A ſixth</hi> thing wherein this ac<g ref="char:EOLhyphen"/>quaintance with God lyes, is in our being acquainted with Gods ſecrets. According to that of the Pſalmiſt, <hi>The ſecret of the Lord is with them that fear him.</hi> And,<note place="margin">Pſal. 25.14. Prov. 3.32.</note> 
+                  <hi>His ſecret is with the righteous.</hi> Not that the moſt intimate of Gods acquaintance know <hi>all</hi> Gods ſecrets. No, there are ſome that are <hi>Arcana inſcrutabi<g ref="char:EOLhyphen"/>lia,</hi> but they know more of Gods ſecrets, than any other in the
+<pb n="28" facs="tcp:60027:16"/>world do. And there are ſome ſecrets that they may without any offence deſire God to make known unto them, as the ſecret counſel of God in their Electi<g ref="char:EOLhyphen"/>on, and the writing of their names in heaven, before the foundations of the world were laid. This is a ſecret that God imparts to none but his ſpecial friends. And this, all that are of Gods acquaintance, may boldly beg of God to have im<g ref="char:EOLhyphen"/>parted to them.</p>
+               <p>
+                  <hi>A ſeventh</hi> thing wherein this converſe and acquaintance with God conſiſts, is in God's viſit<g ref="char:EOLhyphen"/>ing us, and our entertaining of theſe viſits. It is a great favour and honour that God doth us, that he will give us leave to viſit him with our prayers and ſuppli<g ref="char:EOLhyphen"/>cations, but that he ſhould con<g ref="char:EOLhyphen"/>deſcend ſo low as to come and viſit us; this is a greater favour and honour. For the King to come to a private mans houſe,
+<pb n="29" facs="tcp:60027:16" rendition="simple:additions"/>and give him a friendly viſit, is more than to give him leave to come to Court, and preſent his petition; that is as it were, a common courteſie in reſpect of the other. <q>Now what kind of things theſe viſits are, I cannot explain unto you, they are things, in a manner, unuttera<g ref="char:EOLhyphen"/>ble, and if I could ſpeak of them never ſo diſtinctly and clearly, you that have not had experience of them, could ne<g ref="char:EOLhyphen"/>ver underſtand what I mean;</q> and you that have experience, know more already of them, than either you or I can expreſs. But all they that have acquaintance with God, do highly prize theſe viſits, and therefore <hi>firſt</hi> do earn<g ref="char:EOLhyphen"/>eſtly ſollicite God that he would pleaſe to beſtow a viſit upon them, thinking long for it, and ſaying with <hi>David,</hi>
+                  <note place="margin">Pſal. 101.2.</note> 
+                  <hi>Oh when wilt thou come unto me?</hi> Secondly, If God pleaſe to honour them with a viſit, they entertain it with
+<pb n="30" facs="tcp:60027:17" rendition="simple:additions"/>greateſt thankfulneſs, and re<g ref="char:EOLhyphen"/>joycing. One viſit from God, doth them more good than an hundred other bleſſings beſtowed by God upon them. When <hi>Mary</hi> the Mother of our Lord went to give her Cozen <hi>Elizabeth</hi> a viſit, ſhe was ſo affected with the ho<g ref="char:EOLhyphen"/>nour, that not only her heart in her belly, but the Babe in her womb leaped for joy. <hi>And whence is this,</hi> ſaith ſhe, <hi>that the Mother of my Lord ſhould come to me?</hi>
+                  <note place="margin">Luke 1.43.44.</note> 
+                  <hi>for as ſoon as the voice of thy ſalvation ſounded in mine ears, the babe leaped in my womb for joy.</hi> O then, when the Lord himſelf, the Lord of life and glory ſhall pleaſe to come and viſit a poor ſinful ſoul, what joy, what tri<g ref="char:EOLhyphen"/>umph will there be? what crying out! as Mr. <hi>Glover,</hi> when he was going to the ſtake to burnt, <hi>O Auſtine, he is come, he is come!</hi> What admiration! crying out with <hi>Elizabeth,</hi> Whence is this that <hi>my Lord</hi> ſhould come to me!</p>
+               <pb n="31" facs="tcp:60027:17" rendition="simple:additions"/>
+               <p>Thus I have ſhewed you what this acquaintance with God is, and wherein it conſiſts. And when I ſay, the great concern<g ref="char:EOLhyphen"/>ment of every man is to acquaint himſelf with God, the meaning of it is this: That it greatly concerns every one of us to la<g ref="char:EOLhyphen"/>bour to <hi>know God,</hi> and that <hi>not on<g ref="char:EOLhyphen"/>ly</hi> with a knowledge <hi>of notion</hi> and <hi>ſpeculation,</hi> but with a <hi>knowledge of faith</hi> and <hi>experience;</hi> as alſo, to <hi>get our peace made with God,</hi> and then to <hi>converſe familiarly with him;</hi> and to that end, 1. <hi>To viſit him often with our prayers.</hi> 2. To be <hi>frequently in his preſence.</hi> 3. To <hi>improve our intereſt in him</hi> upon all occaſions. 4. To <hi>comply with him,</hi> framing our hearts and wayes ac<g ref="char:EOLhyphen"/>cording to his will in all things. 5. To <hi>obſerve and give him thanks for all his favours.</hi> To beg, 6. <hi>That he would acquaint us with his ſecrets.</hi> And 7. <hi>Honour us with his viſits.</hi> And this is to acquaint our ſelves with God.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="32" facs="tcp:60027:18"/>
+               <head>
+                  <hi>CHAP. III.</hi> Shewing the Reaſons, why it is the great concernment of every Man to acquaint him<g ref="char:EOLhyphen"/>ſelf with God.</head>
+               <p>MAn is, as the Proverb tells us, a ſociable creature, God at the firſt framed him for company and ſociety, therefore of Man in his Innocency, God pronounced this; <hi>It is not good for man to be alone.</hi>
+                  <note place="margin">Gen. 2.18.</note> Hence it is that every Man naturally ſeeks to aſſociate and acquaint himſelf with ſome Companion or other, but ſince the nature of man is be<g ref="char:EOLhyphen"/>come ſo corrupted and vitiated by the fall of <hi>Adam,</hi> it concerns every man to be very careful whom he doth acquaint and aſſo<g ref="char:EOLhyphen"/>ciate himſelf with, not only for his reputation and honour ſake, becauſe <hi>Noſcitur ex ſocio qui non dignoſcitur ex ſe;</hi> but alſo for his
+<pb n="33" facs="tcp:60027:18" rendition="simple:additions"/>ſouls ſake, becauſe a mans aſſo<g ref="char:EOLhyphen"/>ciate and acquaintance hath a ſe<g ref="char:EOLhyphen"/>cret and powerful influence upon his mind and ſpirit, to make it either better or worſe, according as his acquaintance is. Therefore it is that the holy Ghoſt gives that neceſſary caution; <hi>Make no friendſhip with an angry man,</hi>
+                  <note place="margin">Prov. 22.24.</note> 
+                  <hi>and with a furious man thou ſhalt not go, leſt thou learn his wayes, and get a ſnare to thy ſoul.</hi> The ſame may be ſaid of a drunkard, of a ſwearer, of a deſpiſer of the Word and Ordinances of God, of a perverter of the truths of God, and of every other ſinner whatſoever. <hi>Make no friendſhip</hi> with him, <hi>leſt thou get a ſnare to thy ſoul.</hi> But O, how is this whole<g ref="char:EOLhyphen"/>ſom and neceſſary counſel of the holy Ghoſt forgotten; and how unwary are moſt men in the choice of their friends and ac<g ref="char:EOLhyphen"/>quaintance, though the holy Ghoſt again tells us, <hi>With the pure men will learn purity,</hi>
+                  <note place="margin">Pſal. 18.27.</note> 
+                  <hi>and
+<pb n="34" facs="tcp:60027:19"/>with the froward they will learn fro<g ref="char:EOLhyphen"/>wardneſs.</hi> So our Engliſh Tranſla<g ref="char:EOLhyphen"/>tion reads it. <hi>Et cum perverſo perverteris;</hi>
+                  <note place="margin">Sic Cle<g ref="char:EOLhyphen"/>mens Alex<g ref="char:EOLhyphen"/>andr. Ter<g ref="char:EOLhyphen"/>tullian. Athanaſ. Ambroſius, Cyrillus, Auguſti<g ref="char:EOLhyphen"/>nus, alii<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> locum in<g ref="char:EOLhyphen"/>terpretan<g ref="char:EOLhyphen"/>tur.</note> ſo the Vulgar La<g ref="char:EOLhyphen"/>tin But now I propound unto you here an acquaintance, from whence you need not fear any hurt or danger, but rather on the contrary may expect much good; for ſo ſaith the Text: <hi>Acquaint now thy ſelf with him, and be at peace; ſo ſhall good come unto thee.</hi> The <hi>firſt</hi> benefit of this acquaint<g ref="char:EOLhyphen"/>ance is <hi>peace,</hi> peace <hi>with God,</hi> peace with <hi>thine own conſcience,</hi> peace with the reſt of <hi>the crea<g ref="char:EOLhyphen"/>tures.</hi> Firſt, <hi>Peace with God,</hi> that muſt needs be, becauſe reconci<g ref="char:EOLhyphen"/>liation and peace with God, is as you have heard, one ingredi<g ref="char:EOLhyphen"/>ent of this acquaintance with God. Secondly, <hi>Peace with con<g ref="char:EOLhyphen"/>ſcience,</hi> for conſcience is but <hi>Gods Deputy,</hi> Gods <hi>Advocate</hi> and <hi>No<g ref="char:EOLhyphen"/>tary</hi> in the ſoul; and as among men, when a man hath made his peace with the principal Credi<g ref="char:EOLhyphen"/>tor
+<pb n="35" facs="tcp:60027:19" rendition="simple:additions"/>or party that had a contro<g ref="char:EOLhyphen"/>verſie in Law againſt him, the Advocate, the Sollicitor his mouth is ſtopped, he hath no more to ſay: ſo here, having peace with God, thou haſt peace with conſcience; to be ſure then, thou haſt <hi>jus ad rem,</hi> if not <hi>jus in re.</hi> Thirdly, <hi>Peace with the creatures.</hi>
+                  <note place="margin">Job 5.23, 24.</note> For <hi>thou ſhalt be in league with the ſtones of the field: and the beaſts of the field ſhall be at peace with thee,</hi> &amp;c. And Secondly, <hi>Good ſhall come unto thee,</hi> and that a threefold good; <hi>Utile, Honeſtum,</hi> or <hi>Honorificum, Jucundum.</hi> For, Firſt, this acquaintance with God is the moſt <hi>profitable</hi> ac<g ref="char:EOLhyphen"/>quaintance. Secondly, It is the moſt <hi>honourable</hi> acquaintance. And, Thirdly, It is the moſt <hi>comfortable acquaintance.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>Firſt,</hi> I ſay, acquaintance with God is the <hi>moſt profitable</hi> ac<g ref="char:EOLhyphen"/>quaintance; there never was any man, that ever was acquainted with God, nor never will be,
+<pb n="36" facs="tcp:60027:20" rendition="simple:additions"/>but got abundance of good by that acquaintance. I have read of <hi>Calvin</hi> and <hi>Beza,</hi> and other men of eminent learning and holineſs, that the men of their acquaintance have proteſted, that they never were in their company, but they returned <hi>docti<g ref="char:EOLhyphen"/>ores, aut meliores,</hi> either more learned, or made better; what then <hi>may,</hi> and <hi>muſt,</hi> and <hi>will</hi> thoſe ſay, that are acquainted with God? If the light of a glow<g ref="char:EOLhyphen"/>worm will help a man ſo much, what will the light of the Sun? When <hi>Moſes</hi> had been converſing with God upon the Mount but for a little time, forty dayes and forty nights, the Text ſaith, <hi>his face did ſhine.</hi>
+                  <note place="margin">Exod. 24.29.</note> Our acquaintance with men may ſully and deform us, they may affricate ſome of their errours or vices to us, <hi>Uva ut mucorem contactâ traxit ab uvâ.</hi> But now converſing with God, acquainting our ſelves with God, that will make our faces to ſhine.
+<pb n="37" facs="tcp:60027:20" rendition="simple:additions"/>O how <hi>humble,</hi> how <hi>holy,</hi> how <hi>hea<g ref="char:EOLhyphen"/>venly,</hi> how <hi>God-like</hi> will that man grow that acquaints himſelf with God?</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>Secondly,</hi> As this acquaintance with God is a <hi>profitable</hi> acquaint<g ref="char:EOLhyphen"/>ance, ſo it is an <hi>honourable</hi> ac<g ref="char:EOLhyphen"/>quaintance. Men count it an ho<g ref="char:EOLhyphen"/>nour to have acquaintance with thoſe that are their Superiours; hence it is <hi>that many ſeek the Ru<g ref="char:EOLhyphen"/>lers favour.</hi>
+                  <note place="margin">Prov. 29.26.</note> You read of one <hi>Za<g ref="char:EOLhyphen"/>bud</hi> the ſon of <hi>Nathan,</hi> that he was the principal officer in <hi>Solo<g ref="char:EOLhyphen"/>mons</hi> Court,<note place="margin">1 Kings 4.5.</note> and that he <hi>was the Kings friend.</hi> Which of thoſe think you, did he count his great<g ref="char:EOLhyphen"/>eſt honour? and if he muſt have been put to his choice to part with one of them, which of them do you think he would moſt willingly have parted with? It is eaſily determined. Surely to be the <hi>Kings friend</hi> was <hi>more</hi> to him than his office, whatever his of<g ref="char:EOLhyphen"/>fice were. O then, what is it to be the friends of <hi>God,</hi> to be ad<g ref="char:EOLhyphen"/>mitted
+<pb n="38" facs="tcp:60027:21" rendition="simple:additions"/>into familiarity and ac<g ref="char:EOLhyphen"/>quaintance with God, who is King of Kings, and Lord of Lords? It is ſpoken of <hi>Abraham</hi> as his great honour, and the great reward of his faith, that he was <hi>called the friend of God.</hi>
+                  <note place="margin">James 2.23.</note> 
+                  <hi>Cuicunque haec ſors contigerit ut amicus Dei ſit is humanae foelicitatis terminos tran<g ref="char:EOLhyphen"/>ſcendit,</hi> ſaith <hi>Philo.</hi> Whoſe lot ſoever it be to be the friend of God, he hath tranſcended the bounds of humane felicity. And yet this honour have all the chil<g ref="char:EOLhyphen"/>dren of faithful <hi>Abraham,</hi> as well as himſelf; and indeed this ho<g ref="char:EOLhyphen"/>nour all may have that will. Therefore that Souldier whom <hi>Auſtine</hi> mentions, <hi>lib.</hi> 8. <hi>Confeſſ. cap.</hi> 6. ſaid wiſely, <q>
+                     <hi>Dic quaeſo, omnibus laboribus noſtris quo am<g ref="char:EOLhyphen"/>bimus pervenire? quid quaerimus? cujus rei cauſa militamus? Ma<g ref="char:EOLhyphen"/>joreſne eſſe poterint ſpes noſtrae in palatio quam ut amici imperatoris fiamus? &amp; ibi quid non fragile, plenumque periculis? Et per quot
+<pb n="39" facs="tcp:60027:21" rendition="simple:additions"/>pericula pervenitur ad grandius periculum? Et quamdiu iſtud erit? Amicus autem Dei (vo<g ref="char:EOLhyphen"/>luero ecce nunc fio.</hi> Tell me I pray, whither do we by all our adventures aſpire? what ſeek we? what run we the ha<g ref="char:EOLhyphen"/>zard of war for? can our hopes in the Pallace riſe higher, than to be accounted Friends to the Emperour? and in that ho<g ref="char:EOLhyphen"/>nour, what is there that is not frail, and full of danger? and how long will that endure?</q> But the friend of God, if I will, I may be made now preſently. And who but mad-men or fools, would refuſe ſuch honour.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <hi>Thirdly,</hi> This acquaintance with God, as it is moſt profit<g ref="char:EOLhyphen"/>able and honourable, ſo it is moſt <hi>comfortable, pleaſant,</hi> and <hi>delight<g ref="char:EOLhyphen"/>ful.</hi> And here I muſt appeal to all thoſe that have ever had ex<g ref="char:EOLhyphen"/>perience of acquaintance with God, if they have not found more true, real, ſolid joy and comfort
+<pb n="40" facs="tcp:60027:22" rendition="simple:additions"/>in one quarter of an hours ſecret converſe with God, yea in one friendly look or word of God, than ever they did in all their lives beſides? you that are ſtran<g ref="char:EOLhyphen"/>gers to this, I know will not be<g ref="char:EOLhyphen"/>lieve it, nor cannot think it; but thoſe that have experience of it, will bear me witneſs that <hi>I ſpeak the truth in Chriſt, I lye not,</hi> nor <hi>hyperbolize.</hi> What is the com<g ref="char:EOLhyphen"/>fort and joy of heaven it ſelf, but the preſence of God, ſweet com<g ref="char:EOLhyphen"/>munion and converſe with God; ſo far therefore as we can attain this upon earth, ſo far we have an heaven upon earth. The <hi>Jews</hi> have a ſaying concerning the laſt day of the feaſt of Tabernacles which Scripture calls <hi>the laſt and great day of the feaſt,</hi> Joh. 7.37. that he who never knew the joy of that day, never knew joy in all his life: but I am ſure it is much more true here; he that never knew the comfort and joy of ac<g ref="char:EOLhyphen"/>quaintance with God, never
+<pb n="41" facs="tcp:60027:22"/>knew true joy and comfort in all his life.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Well, if all this that hath been ſaid of the <hi>profit, honour,</hi> and <hi>com<g ref="char:EOLhyphen"/>fort</hi> of acquaintance with God, be not enough to perſwade you, that it is the great concernment of every one of you to get and keep this acquaintance, I have but one thing more to add, and that is, that it is <hi>neceſſary</hi> for eve<g ref="char:EOLhyphen"/>ry one of you to acquaint your ſelves with God. For tell me, can you be content when you ſhall come to lye a dying, and then knock at the gate of mercy, ſaying, <hi>Lord, Lord, open unto us;</hi>
+                  <note place="margin">Luke 13.25.</note> can you be content, that God ſhould anſwer you as it is there, <hi>I know you not whence you are?</hi> Or, can you be content, that when you come to appear before the judgment-ſeat of Chriſt, he ſhould profeſs to you, <hi>I never knew you,</hi>
+                  <note place="margin">Mat. 7.23.</note> 
+                  <hi>depart from me ye workers of iniquity?</hi> If not, O then la<g ref="char:EOLhyphen"/>bour to get acquaintance with
+<pb n="42" facs="tcp:60027:23" rendition="simple:additions"/>God and Chriſt now, for can you imagine that God and Chriſt will know them in death and judgment, who care not for knowing him, and acquainting themſelves with him in the time of their lives?</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> Calling us to take notice of the wonderful condeſcenſion of God towards us, in vouch<g ref="char:EOLhyphen"/>ſafing to admit us into his Acquaintance; and of the madneſs and folly of thoſe that care not for this Ac<g ref="char:EOLhyphen"/>quaintance.</head>
+               <p>HEre then ſee the infinite goodneſs and condeſcenſi<g ref="char:EOLhyphen"/>on of God towards us his poor and worthleſs creatures, who though he be infinitely above us,
+<pb n="43" facs="tcp:60027:23"/>and ſtands not at all in need of of us, nor cannot be in the leaſt benefited or advantaged by us, or by his acquaintance with us; but before there was made either <hi>Man</hi> or <hi>Angel,</hi> he was infinitely ſatisfied, and infinitely bleſſed in the enjoyment of himſelf; yet was he pleaſed to create <hi>Angels</hi> and <hi>Men,</hi> not only to a fitneſs and capacity of, but unto an actual communion and acquaintance with himſelf; which was more than needed on God's part, or was owing on our parts; and when we like fooliſh and un<g ref="char:EOLhyphen"/>thankful wretches, upon the very firſt motion of the devil, gave away this honour and happineſs of acquaintance and communi<g ref="char:EOLhyphen"/>on for an <hi>apple,</hi> as <hi>Eſau</hi> ſold his birth-right for a <hi>meſs of pottage,</hi> and thereby not only made our ſelves unworthy for ever to be admitted into Gods favour and acquaintance, but unfit for it too, as well as unworthy; that God
+<pb n="44" facs="tcp:60027:24"/>ſhould yet pleaſe to ſtoop ſo low as to take us yet again into ac<g ref="char:EOLhyphen"/>quaintance with himſelf: this ſpeaks the wonderful goodneſs of God, his infinite <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or love to mankind.</p>
+               <p>When <hi>Eſau</hi> had once underva<g ref="char:EOLhyphen"/>lued the birth-right, ſo far as to ſell it for a meſs of pottage, though afterwards it grieved him for what he had done, and he ſought earneſtly, and that with tears, to recover that bleſ<g ref="char:EOLhyphen"/>ſing and birth-right which he had ſo fooliſhly loſt, yet it could not be: ſo God might have dealt with <hi>Adam,</hi> and every one of us. The Text tells us, <hi>Adam</hi> lived 930 years after his ſin; now if <hi>Adam</hi> had ſpent all thoſe years in nothing but weeping and mourning, for his folly and mad<g ref="char:EOLhyphen"/>neſs in parting with his birth-right, his acquaintance and com<g ref="char:EOLhyphen"/>munion with God, for an apple, and in ſeeking earneſtly, and that with tears, to recover com<g ref="char:EOLhyphen"/>munion
+<pb n="45" facs="tcp:60027:24"/>and acquaintance with God again, and after all, had been denyed it, yet God had been altogether juſt and righteous.</p>
+               <p>But behold the kindneſs of God, and his love towards man<g ref="char:EOLhyphen"/>kind! As it is ſaid of <hi>David,</hi> when <hi>Abſalom</hi> by his villanies had ba<g ref="char:EOLhyphen"/>niſhed himſelf from his Fathers Court and preſence, it is ſaid, <hi>The ſoul of King</hi> David <hi>longed to go forth unto Abſalom:</hi> that is,<note place="margin">2 Sam. 13.39.</note> 
+                  <hi>Da<g ref="char:EOLhyphen"/>vids</hi> heart was full of fatherly affection towards him, and he longs to be friends with him a<g ref="char:EOLhyphen"/>gain: ſo did the heart of God even long towards man, after his ſin and fall, and he did even long to be friends with him again, and to renew his acquaintance and converſe with him.</p>
+               <p>And this gracious diſpoſition of his towards ſinful man, this great deſire and inclination which <hi>God</hi> hath after peace and renewed acquaintance with ſin<g ref="char:EOLhyphen"/>ful man, God hath abundantly de<g ref="char:EOLhyphen"/>clared and teſtified.</p>
+               <pb n="46" facs="tcp:60027:25"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>Firſt,</hi> By <hi>appointing, ordaining,</hi> and giving one to be a <hi>Media<g ref="char:EOLhyphen"/>tor,</hi> a <hi>Reconciler,</hi> a <hi>Peace-maker</hi> a <hi>Friend-maker,</hi> between God and us.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>Secondly,</hi> By <hi>appointing</hi> and <hi>giving</hi> no other nor meaner Per<g ref="char:EOLhyphen"/>ſon to this work, than <hi>his own</hi> bleſſed and dear <hi>Son,</hi> who is the <hi>expreſs image of his perſon,</hi>
+                  <note place="margin">Heb. 1.3.</note> 
+                  <hi>and the brightneſs of his glory.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <hi>Thirdly,</hi> By giving this <hi>Son</hi> of his to be a Mediator, not only by way of <hi>Interceſſion,</hi> but alſo by way of <hi>ſatisfaction,</hi> to make peace for us by paying our debts, and ſatisfying for our ſins, which he could not do but by ſhedding his blood, and laying down his precious life; and yet rather than God would quite loſe and abandon all his intereſt in us, and acquaintance with us, he would not ſpare his own Son.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                  <hi>Fourthly,</hi> By teſtifying and proclaiming unto all men in the Miniſtry of the Goſpel, that <hi>he
+<pb n="47" facs="tcp:60027:25"/>is reconciled to the world,</hi>
+                  <note place="margin">2 Cor. 5.19, 20.</note> and by re<g ref="char:EOLhyphen"/>calling and inviting ſinners unto peace and acquaintance with himſelf.</p>
+               <p>
+                  <hi>Fifthly,</hi> By profering his acquaint<g ref="char:EOLhyphen"/>ance unto ſinners upon ſuch eaſie, <milestone type="tcpmilestone" unit="unspecified" n="5"/> and as I may ſay, ſuch cheap terms, namely, that we ſhould repent of, and ceaſe from our hating of him, and our being enemies to him, and enter into a league of unfeigned love and friendſhip with him; and would any of us take one that hath been our enemy, into our acquaint<g ref="char:EOLhyphen"/>ance, upon other terms than theſe?</p>
+               <p>
+                  <hi>Sixthly,</hi> By his not only offering acquaintance with us upon thoſe terms, by his Embaſſadours, his Mi<g ref="char:EOLhyphen"/>niſters, <milestone type="tcpmilestone" unit="unspecified" n="6"/> but by his coming perſon<g ref="char:EOLhyphen"/>ally by his Spirit to our ſeveral hearts, inviting and ſolliciting us to this acquaintance. According to that of our Lord <hi>Jeſus Chriſt, Behold I ſtand at the door and knock;</hi>
+                  <note place="margin">Rev. 3.20.</note> 
+                  <hi>if any man hear my voice, and open to me, I will come in to him, and will ſup with him, and he with me.</hi> The <hi>Greeks</hi> and <hi>Ro<g ref="char:EOLhyphen"/>mans</hi>
+                  <pb n="48" facs="tcp:60027:26"/>of old were wont alwayes to have their feaſts at ſupper; therefore when it is ſaid here, <hi>I will come in to him, and ſup with him,</hi> it is as if he had ſaid, <hi>I will come in to him and feaſt with him.</hi> And feaſting together was of old a <hi>Symbole</hi> of perfect re<g ref="char:EOLhyphen"/>conciliation, and intimate friendſhip and acquaintance. Now, behold here the wonderful goodneſs and conde<g ref="char:EOLhyphen"/>ſcenſion of God, and his gracious diſpoſition and inclination towards peace and acquaintance with his poor creatures. May we not here now take up that admiring expreſſi<g ref="char:EOLhyphen"/>on of <hi>David, And is this the manner of men, O Lord.</hi> Did you ever read or hear of any King or Prince,<note place="margin">2 Sam. 7.19.</note> that when his Subjects had highly pro<g ref="char:EOLhyphen"/>voked him, by their rebellion a<g ref="char:EOLhyphen"/>gainſt him, and he had power e<g ref="char:EOLhyphen"/>nough to cruſh and deſtroy them, would yet not only ſend his Heralds and Ambaſſadours to them to offer terms of peace and reconciliation; but would himſelf, go in his own perſon, from houſe to houſe, and
+<pb n="49" facs="tcp:60027:26"/>from man to man, intreating them ſeverally, and by name, that they would be friends with him their So<g ref="char:EOLhyphen"/>veraign Lord and King; and offer<g ref="char:EOLhyphen"/>ing if they will but open the door to him, that he will forgive them, and be friends with them: did you ever read or hear of ſuch a thing? and <hi>is this the manner of men?</hi> but this is the manner of Gods deal<g ref="char:EOLhyphen"/>ing with his enemies. Behold there<g ref="char:EOLhyphen"/>fore, I ſay, and admire the gracious diſpoſition of God towards ſinful man, and the great deſire he hath towards peace and renewed ac<g ref="char:EOLhyphen"/>quaintance with him.</p>
+               <p>In the next place, ſee here the folly and madneſs of all thoſe that are not acquainted with God. And this I fear is the ſtate of not a few among us, whatever they may think of themſelves; of whom it may be ſaid, as our Saviour ſaid of the Jews,<note place="margin">John 5.37.</note> 
+                  <hi>Ye have neither heard his voice at any time, nor ſeen his ſhape.</hi> They were a People that had read and heard the word of God; Ay,
+<pb n="50" facs="tcp:60027:27"/>but yet they had never heard the voice of God, they had never heard God himſelf ſpeaking in his word; they had ſeen the temple, and the Altar, and the reſt of thoſe ſacred <hi>Symbols</hi> that were the teſtimonies of Gods preſence, ay, but they had ne<g ref="char:EOLhyphen"/>ver ſeen the face of God in thoſe Ordinances, and therefore though they looked upon themſelves as the only people in the world that were acquainted with God, yet our Savi<g ref="char:EOLhyphen"/>our tells them they were miſtaken, they were meer ſtrangers to him. <hi>Ye have,</hi> ſaith he, <hi>neither heard his voice at any time, nor ſeen his ſhape.</hi>
+               </p>
+               <p>O that it were not ſo with ſome of us, who hear <hi>of God</hi> indeed, but hear not <hi>God,</hi> who have heard of God by <hi>the hearing of the ear,</hi> but ne<g ref="char:EOLhyphen"/>ver heard God himſelf by the <hi>hear<g ref="char:EOLhyphen"/>ing of the heart,</hi> who <hi>have ſeen</hi> the ſanctuaries and Ordinances of God, but have never ſeen the <hi>face of God</hi> in his Ordinances, and in his Sanctu<g ref="char:EOLhyphen"/>aries, and ſo remain ſtrangers to God, and unacquainted with him.</p>
+               <pb n="51" facs="tcp:60027:27"/>
+               <p>Particularly here are two ſorts, whoſe woful condition this is.</p>
+               <list>
+                  <item>
+                     <hi>Firſt,</hi> Thoſe <hi>that are ignorant of God.</hi>
+                  </item>
+                  <item>
+                     <hi>Secondly,</hi> Thoſe <hi>that have no con<g ref="char:EOLhyphen"/>verſe with God.</hi>
+                  </item>
+               </list>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>Firſt,</hi> Thoſe <hi>that are ignorant</hi> of God, who know not God: they muſt needs be ſtrangers to God, and God to them; for knowledge is the firſt ſtep to acquaintance. Now, by per<g ref="char:EOLhyphen"/>ſons ignorant of God, I mean, not only thoſe that are groſsly ignorant, who have not a true notion of the Nature, Attributes, and Perſons in the Deity, of which there are too many every where; but by ignorant perfons, I mean, thoſe, who though they have a true notion of God, yet want the real, effectual, and power<g ref="char:EOLhyphen"/>ful knowledge of God: their know<g ref="char:EOLhyphen"/>ledge of God is meerly notional, and God is to them, as it were, meerly, <hi>Notio ſecunda &amp; ens rationis,</hi> as the <hi>Logicians</hi> ſpeak. To know God really and indeed, is as I ſaid before, to know him not only by an
+<pb n="52" facs="tcp:60027:28"/>
+                  <hi>airy ſpeculation,</hi> but to know him by a <hi>faith of effectual perſwaſion,</hi> ſo to know him, as to believe him indeed to be, the moſt powerful, wife, and good, the moſt juſt, and holy, Crea<g ref="char:EOLhyphen"/>tor, preſerver, and Governor of the whole univerſe, and accordingly to have our hearts affected with love unto him, with deſire after him, with fear and reverence of him, and delight in him. This, and this only, is the true knowledge of God, and whoſoever they be that are deſtitute of this knowledge, whatever they may think of themſelves, and of their own knowledge, they are yet ignorant of God, and ſtrangers from God, through the ignorance that is in them.</p>
+               <p>Now, do we thus know God all of us? do we thus know God? thus as to acknowledge him, love him, fear him, deſire him delight in him. The ox, the horſe, &amp; the dog, thus knows his Maſter and owner; and if we do not thus know our Creator, our Preſerver, our Feeder and Main<g ref="char:EOLhyphen"/>tainer,
+<pb n="53" facs="tcp:60027:28"/>O how ignorant and brutiſh are we? <hi>Iſa.</hi> 1.3.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>Secondly.</hi> Others there are that have no converſe with God, what<g ref="char:EOLhyphen"/>ever they know of him, they have no converſe with him,<note place="margin">Epheſ. 2.12.</note> 
+                  <hi>but live without God in the world,</hi> as the Apoſtle ſpeaks of ſome. That are as mind<g ref="char:EOLhyphen"/>leſs of God, as regardleſs of God, &amp; of all converſe with him, as if there were no God at all: who are ſo far from viſiting God daily with their prayers, that they never viſit God by prayer at all; who are ſo far from being often in the preſence of God, as thoſe are that acquaint themſelves with God, and converſe with God, that they are never in the preſence of God at all.<note place="margin">Pſal. 10.4.</note> 
+                  <hi>God is not in all their thoughts,</hi> as the <hi>Pſalmiſt</hi> ſpeaks, and makes it the very deſcription of a wicked man. Now how many ſuch are there among us, of whom it may moſt truly be ſaid, <hi>God is not in all their thoughts?</hi>
+               </p>
+               <p>One man he awakes, and riſes in the morning, and as ſoon as he is up,
+<pb n="54" facs="tcp:60027:29"/>preſently without ever taking no<g ref="char:EOLhyphen"/>tice of God, or turning his thoughts to him, he ruſheth into his ſhop, or into his worldly buſineſſes, and is engaged in them ſoul and body, heart and hand, and ſo he continues, till of neceſſity he muſt intermit his labours to take a little food, and when he hath done that, he returns to his work again, and there conti<g ref="char:EOLhyphen"/>nues till late at night, and then he takes his ſupper, and goes to bed, and ſleeps till morning, and then he riſeth and ſpends the ſecond day as he ſpent the firſt, and the third as the ſecond, and ſo on, one day after another, and one week after ano<g ref="char:EOLhyphen"/>ther, and one year after another, but <hi>God is not in all his thoughts.</hi> Ano<g ref="char:EOLhyphen"/>ther is no ſooner up and clad, but he is preſently for his ſports and games, or his company and cups, and theſe he purſues all the day long. There are <hi>that riſe early in the morn<g ref="char:EOLhyphen"/>ing to follow ſtrong drink,</hi>
+                  <note place="margin">Iſa. 5.11.</note> 
+                  <hi>and conti<g ref="char:EOLhyphen"/>nue until night, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ill the wins enflame them.</hi> And as they ſpend one day, ſo
+<pb n="55" facs="tcp:60027:29"/>they reſolve to ſpend a ſecond and a third, and ſo they would ſpend eve<g ref="char:EOLhyphen"/>ry day. <hi>Come ye,</hi> ſay they, <hi>I will fetch wine;</hi>
+                  <note place="margin">Chap. 56.12.</note> 
+                  <hi>and we will fill our ſelves with ſtrong drink, and to morrow ſhall be as this day, and much more abundant. When I ſhall awake,</hi>
+                  <note place="margin">Prov. 23.35.</note> 
+                  <hi>I will ſeek it yet again.</hi> A man may without ſuſpici<g ref="char:EOLhyphen"/>on of the leaſt breach of charity conclude of theſe, that they have no acquaintance with God: <hi>God is not in all their thoughts.</hi>
+               </p>
+               <p>I confeſs, that even the Saints themſelves have God too little in their thoughts, but they take no<g ref="char:EOLhyphen"/>tice of it, and bewail it, which makes one of them cry out, <hi>O Deus aeterne quomodo ſemper memor es ejus qui tui ſemper obliviſcitur? quomodo continuatam habes memoriam ejus qui perpetuam tui habet oblivionem? O Deus proeſentiſſime, &amp; remotiſſime! proeſentiſſime quidem quod in te eſt omnibus creaturis t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is, remotiſſimus ve<g ref="char:EOLhyphen"/>ro hominibus terrenis propter profundam qua tenentur joblivionem quod tu fis in eis. Me miſerum obliviſcor Dei qui
+<pb n="56" facs="tcp:60027:30"/>mecum eſt, &amp; beneficiorum quae conti<g ref="char:EOLhyphen"/>nuo in me confert, praeceptorum quae mi<g ref="char:EOLhyphen"/>hi imponit, praemiorum quae promittit, ſuppliciorum quae minatur, &amp; denique judicii quod inſtituet. O Pater miſeri<g ref="char:EOLhyphen"/>cordiarum aufer à me pernitioſam adeo oblivionem tui, ut ſemper ſim tui memor ſicut tu es mei.</hi> 
+                  <q>O eternal God, how is it that thou art alwayes mindful of one who is alwayes unmindful of thee? how is it that thou haſt a continual remem<g ref="char:EOLhyphen"/>brance of him who hath a per<g ref="char:EOLhyphen"/>petual forgetfulneſs of thee? O O God, who art moſt preſent to me, and moſt remote from me! As for thee, thou art moſt pre<g ref="char:EOLhyphen"/>ſent to all thy creatures, but moſt remote from earthly men, be<g ref="char:EOLhyphen"/>cauſe of their profound forgetful<g ref="char:EOLhyphen"/>neſs, that thou art in them, Ah, wretched man that I am, I forget that God that is ever with me, the benefits that he continually be<g ref="char:EOLhyphen"/>ſtows upon me, the precepts which he impoſeth on me, the rewards which he promiſeth me,
+<pb n="57" facs="tcp:60027:30"/>the puniſhments wherewith he threatens me, the Judgments which he will execute.</q> O Father of mercies, take away from me this ſo pernicious forgetfulneſs of thee, and grant that I may be ever mindful of thee, as thou art of me. But, O how few are there that are thus ſenſible of their forgetfulneſs of God, and their mindleſsneſs of him, and be<g ref="char:EOLhyphen"/>wail it, and pray againſt it? No, my brethren, the generality of men live in a mindleſsneſs and regard<g ref="char:EOLhyphen"/>leſsneſs, and total and conſtant for<g ref="char:EOLhyphen"/>getfulneſs of God, &amp; love to live ſo; this is their folly and their madneſs, they ſhun the thoughts of God, and all converſe with God, as men that have ſore eyes ſhun the light of the Sun.<note place="margin">Job 21. 14.</note> 
+                  <hi>They ſay unto the Almighty, de<g ref="char:EOLhyphen"/>part from us, for we deſire not the know<g ref="char:EOLhyphen"/>ledge of thy wayes.</hi> Would you think it poſſible, that men ſhould ever ar<g ref="char:EOLhyphen"/>rive at that height of madneſs, as not only to live ſtrangers from God, &amp; unacquainted with him, but to be contented ſo to live, yea to ref uſe
+<pb n="58" facs="tcp:60027:31"/>all knowledge of him, and ſcorn all acquaintance with him?</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> Exhorting all to labour to get ac<g ref="char:EOLhyphen"/>quaintance with God, and pro<g ref="char:EOLhyphen"/>pounding ſeveral Motives thereunto.</head>
+               <p>MY next work therefore ſhall be to exhort and invite every one of you to this acquaintance with God. Let me beſpeak every one, into whoſe hands theſe lines may come, in the words of my Text, <hi>Acquaint thy ſelf with him.</hi>
+               </p>
+               <p>There are three things, that are the great attractives, and incentives to make us ſeek acquaintance with men. Firſt, The worthineſs of the perſon. Secondly, The benefit we may reap by their acquaintance. Thirdly, Eaſineſs of acceſs and ac<g ref="char:EOLhyphen"/>quaintance.
+<pb n="59" facs="tcp:60027:31"/>Now all theſe are emi<g ref="char:EOLhyphen"/>nently and tranſcendently in God.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>Firſt,</hi> The <hi>worthineſs of the perſon.</hi> Men that are of great eminency, either for learning and wiſdom, or for holineſs and prety, or for power and authority, or for honour and dignity, O how ambitions are pru<g ref="char:EOLhyphen"/>dent and intelligent men of getting acquaintance with ſuch? In all theſe particulars, <hi>who</hi> is like unto God, or who may be compared with him? who is infinite in wiſdom and holi<g ref="char:EOLhyphen"/>neſs, infinite in Majeſty, power, and glory; <hi>He is the only Potentate, King of Kings, and Lord of Lords,</hi> whoſe acquaintance is more worth than the acquaintance of all the men in the world. For,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>Secondly,</hi> What benefit can you reap or expect from acquaintance with any man in the world, which is not infinitely more to be had in God, and that in all abundance? do you look that your friend and ac<g ref="char:EOLhyphen"/>quaintance ſhould counſel you in
+<pb n="60" facs="tcp:60027:32"/>your ſtreights, protect you in dan<g ref="char:EOLhyphen"/>gers, defend you againſt enemies, pitty you in your afflictions, ſupply your wants, comfort you in your heavineſs, deliver you in all your troubles? who ſo able, ſo willing to do all this, as God for thoſe that are his friends and acquaintance? And ſuch an one thou mayeſt be if thou wilt, &amp; haſt indeed a mind to it. For,</p>
+               <p>
+                  <hi>Thirdly,</hi> God is of open and eaſie acceſs.<note n="*" place="margin">Ingre<g ref="char:EOLhyphen"/>diamur aulas, ob<g ref="char:EOLhyphen"/>ſecro, &amp; obſtupeſcemus tantum argenti &amp; auri effundi ad propitias Principum aures impetrandas. Quandoque non hebdomades ſolùm, ſed menſes, ſed &amp; annos totos expect andum est, dum Principis conclave &amp; aures pa<g ref="char:EOLhyphen"/>teunt orationem acturo, Ad Deum immenſa Majeſta<g ref="char:EOLhyphen"/>tis Dominum, omni horâ, momentis omnibus patet adi<g ref="char:EOLhyphen"/>tus. Rex coeli nunquam non propitias &amp; vacivas habet aures. Importunitatis hîc nemo inſimulatur. Gratior eſt, qui frequentior, &amp; importunior. Adeſte terrae ver<g ref="char:EOLhyphen"/>miculi, prorepite ſcarabaeoli, accurrito homunculi mi<g ref="char:EOLhyphen"/>ſelli, liberrimum vobis est cum conditore veſtro collo<g ref="char:EOLhyphen"/>quium. Nec eſt, quod vel cauſae veſtra vel facundiae quidquam diffidatis: quò ſimpliciùs perorabitis, hoc meliùs: modò non fr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>geat, aut exerret oratio veſtra: modò eum, quem rogatis, ex oculis non veſtrâ ſponte amittatis. <hi>Caſſiodorus id aſſerens:</hi> Ad penetralia ju<g ref="char:EOLhyphen"/>dicis, <hi>ait,</hi> precator admittitur, &amp; nullus inde reſpuitur, niſi qui tepidus invenitur. <hi>Drexel. Rhet. Cael. lib. 1. cap. 13.</hi>
+                  </note> It is not his being an in<g ref="char:EOLhyphen"/>viſible
+<pb n="61" facs="tcp:60027:32"/>Majeſty, nor his dwelling in light inacceſſible, that can render our acquaintance and converſe with him, either impoſſible or difficult. Not his being inviſible, for the ſouls of men are inviſible, and yet the converſe that men have one with another, is betweeen their ſouls ra<g ref="char:EOLhyphen"/>ther than their bodies; it is the ſoul that diſcourſeth, reaſons, un<g ref="char:EOLhyphen"/>derſtands, wills, loves; and if we can converſe and grow into ac<g ref="char:EOLhyphen"/>quaintance with a ſoul, whoſe eſ<g ref="char:EOLhyphen"/>ſence or ſhape we never ſaw, why may we not converſe with an unſeen God too?</p>
+               <p>Nor doth it hinder our converſe and acquaintance with God, that he inhabiteth eternity, that he dwelleth in the high and holy place; for though he be infinitely above us, yet he condeſcends to communicate himſelf to us, according to our capacities. <hi>He dwelleth on high, and yet he humbleth himſelf to behold the things that are done in earth,</hi>
+                  <note place="margin">Pſal. 113.5, 6.</note> 
+                  <hi>as well as in heaven,</hi> to converſe with men as
+<pb n="62" facs="tcp:60027:33"/>well as Angels. As the Sun in hea<g ref="char:EOLhyphen"/>ven is far above us, and yet doth not diſdain to inlighten, and warm, and quicken the pooreſt worm that crawls upon the earth, as well as the Eagle that ſoars aloft above the clouds, and can gaze the Sun in the face. Let not therefore any poor ſoul be diſcouraged, and think or ſay, It is not for ſuch a worm, for ſuch a nothing as I am to aſpire to acquaintance and converſe with God. No, no, Men may be too high for thee to reach, and too great for thee to graſp and compaſs acquaintance with, but the great God will ſtoop to entertain ac<g ref="char:EOLhyphen"/>quaintance with thee, if thou wilt acquaint thy ſelf with him.</p>
+               <p>He diſdaineth not the acquaint<g ref="char:EOLhyphen"/>ance of the <hi>leaſt</hi> of men, nor of the <hi>greateſt</hi> of ſinners. Such was the condeſcenſion of the <hi>divine</hi> nature, that it diſdained not the near ac<g ref="char:EOLhyphen"/>quaintance with the <hi>humane</hi> nature: to take it into perſonal union with himſelf; and ſuch was the conde<g ref="char:EOLhyphen"/>ſcenſion
+<pb n="63" facs="tcp:60027:33"/>of <hi>God in our nature,</hi> that when he was upon earth he diſdain<g ref="char:EOLhyphen"/>ed not the acquaintance of thoſe who upon common account were the vileſt of men, even Publicans and ſinners.<note place="margin">Mat. 9.11.</note> And ſuch is ſtill the gracious condeſcenſion of <hi>God in Chriſt,</hi> that he diſdaineth not the acquaintance of the <hi>meaneſt</hi> Perſons or <hi>vileſt</hi> ſinners that ſeek acquaint<g ref="char:EOLhyphen"/>ance of him. Nay,</p>
+               <p>
+                  <hi>Secondly,</hi> He offers and tenders this acquaintance to them; and this is not uſual for great perſons to do to their Inferiours; he intreateth and beſeecheth poor ſinners that they would be reconciled to him, and acquainted with him. And this he doth.</p>
+               <p>
+                  <hi>Thirdly,</hi> Out of his meer grace and favour only, for their good and benefit, not for any gain or ad<g ref="char:EOLhyphen"/>vantage to himſelf. <hi>Can a man be profitable to God?</hi> ſaith <hi>Eliphaz.</hi> No,<note place="margin">Job 22.2.</note> God cannot be a gainer by our ac<g ref="char:EOLhyphen"/>quaintance: that he offers it, ſeeks it, is for our good and benefit, that
+<pb n="64" facs="tcp:60027:34"/>we may be made happy and bleſſed by it. O then, let not this grace of God be in vain to us, but accept we this gracious offer of God, <hi>ac<g ref="char:EOLhyphen"/>quainting our ſelves with him.</hi>
+               </p>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>CHAP. VI.</hi> Particularly exhorting thoſe that never yet had acquaintance with God, now to labour for it. With Directions for the at<g ref="char:EOLhyphen"/>taining of it.</head>
+               <p>NOw here are three ſorts that I would apply my ſelf unto.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>Firſt.</hi> Thoſe that never yet were acquainted with God. My Exhor<g ref="char:EOLhyphen"/>tation to them ſhall be, that they would <hi>now</hi> acquaint themſelves with God, <hi>now</hi> preſently, without any further delay.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>Secondly.</hi> To thoſe that have ac<g ref="char:EOLhyphen"/>quainted themſelves with God, that
+<pb n="65" facs="tcp:60027:34"/>they would labour to keep and maintain their acquaintance with him inviolate and uninterrupted.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <hi>Thirdly.</hi> To thoſe whoſe ac<g ref="char:EOLhyphen"/>quaintance with God is intermitted, and they have in a manner loſt it, that they would labour to renew it.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>Firſt.</hi> Such as never yet had any acquaintance with God. O labour now to get into acquaintance with him. Acquaint thy ſelf <hi>now</hi> with him, <hi>now</hi> preſently, immediately, without any further delay. O con<g ref="char:EOLhyphen"/>ſider how long you have lived ſtran<g ref="char:EOLhyphen"/>gers to God already, enemies to God already. Is it not enough that you have lived twenty, thirty, forty, fifty years already, without any in<g ref="char:EOLhyphen"/>timacy or acquaintance with God? O if you love God, if you love your own ſouls, live not a day lon<g ref="char:EOLhyphen"/>ger, live not an hour longer in that ſtrange condition. <hi>The time paſt of our life may ſuffice us to have lived in laſciviouſneſs, luſt, exceſs of wine,</hi>
+                  <note place="margin">1 Pet. 4.3.</note> &amp;c. ſaith the Apoſtle <hi>Peter.</hi> And
+<pb n="66" facs="tcp:60027:35"/>
+                  <hi>it is high time to awake out of ſleep,</hi> ſaith the Apoſtle <hi>Paul.</hi>
+                  <note place="margin">Rom. 13.11.</note> So ſay I, the time paſt may ſuffice us to have lived without God in the world, and it is now high time for every one of us to begin to acquaint our ſelves with him.</p>
+               <p>
+                  <hi>Acquaint</hi> therefore <hi>now thy ſelf with him. Now, now,</hi> while God is pleaſed to offer and tender this ac<g ref="char:EOLhyphen"/>quaintance. <hi>Now is the day of grace,</hi>
+                  <note place="margin">2 Cor. 6.2.</note> 
+                  <hi>now is the accepted time. Now,</hi> while the golden ſcepter is held forth, while the Goſpel is preached unto you. <hi>To day if you will hear his voice, harden not your hearts.</hi>
+                  <note place="margin">Heb. 3.7.</note> If God ſpeak to your hearts, and beſpeak your ac<g ref="char:EOLhyphen"/>quaintance with him, <hi>ſee that ye re<g ref="char:EOLhyphen"/>fuſe not him that ſpeaketh,</hi> but acquaint thy ſelf now with him.</p>
+               <p>If any ſay,<label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>
+                  </label> But how ſhall we do to get this acquaintance with God?</p>
+               <p>I anſwer,<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> O that there were ſuch a heart in you! O that every one into whoſe hands the providence of God ſhall bring this poor Trea<g ref="char:EOLhyphen"/>tiſe,
+<pb n="67" facs="tcp:60027:35"/>were come thus far to ſeek after God, as ſeriouſly to enquire how they might be acquainted with God! you that are ſo, take theſe directions.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>Firſt.</hi> Labour to be fully con<g ref="char:EOLhyphen"/>vinced of an abſolute neceſſity of acquainting your ſelves with God. Look upon it as your great duty, look upon it as that upon which not only the comfort of your lives, but the eternal ſalvation of your ſouls doth depend. There are three times eſpecially wherein this acquaint<g ref="char:EOLhyphen"/>ance with God will be found of great and abſolute neceſſity.</p>
+               <p>
+                  <hi>Firſt.</hi> In a time of common ca<g ref="char:EOLhyphen"/>lamity. Such a time as our Saviour ſpeaks of.<note place="margin">Luke 21.25, 26.</note> 
+                  <hi>When there ſhall be diſtreſs of Nations upon the earth, with per<g ref="char:EOLhyphen"/>plexity, mens hearts failing them for fear, and for looking after thoſe things that are coming upon the earth;</hi> (and how near ſuch times may be to us, and how faſt they may be haſtening upon us, who can tell?) O then hap<g ref="char:EOLhyphen"/>py are thoſe that have acquaintance
+<pb n="68" facs="tcp:60027:36"/>with God, they have a friend, an acquaintance that will not fail them, when their own hearts are ready to fail them, and would undoubtedly fail them, were it not for their ac<g ref="char:EOLhyphen"/>quaintance with God. Whereas they that have not acquainted them<g ref="char:EOLhyphen"/>ſelves with God, will find God himſelf a terrour to them in the day of their calamity, God will deal with them as he threatens. <hi>I will ſhew them the back,</hi>
+                  <note place="margin">Jer. 18.17.</note> 
+                  <hi>and not the face, in the day of their calamity.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly. In the day of death, then acquaintance with God will be found abſolutely neceſſary. There is no man, but when he comes to lye a dying, would be glad to have God his friend, and to receive his ſoul into his preſence and favour. <hi>Into thy hands Lord I commend my ſpirit; Lord Jeſus receive my ſoul,</hi> is the prayer, or at leaſt the wiſh of every dying man and woman, that doth not dye like <hi>Nabal,</hi> ſtupid and ſenſeleſs as a ſtock or ſtone. But do you think that God will do this for
+<pb n="69" facs="tcp:60027:36"/>every one at the firſt asking? ſurely no. They that never regarded to ac<g ref="char:EOLhyphen"/>quaint themſelves with God in the time of their life, God will not ſo eaſily own them at the hour of their death; but they that have acquaint<g ref="char:EOLhyphen"/>ed themſelves with God in the time of their life, they may with much comfort and aſſurance commend their ſouls into the hand of God, when they are at the point of death. And may ſay with <hi>Paul,</hi>
+                  <note place="margin">2 Tim. 1.12.</note> 
+                  <hi>I know whom I have believed, and that he is able to keep that good thing that I have com<g ref="char:EOLhyphen"/>mitted unto him againſt that day.</hi> It was a noble ſpeech of good Dr. <hi>Pre<g ref="char:EOLhyphen"/>ſton</hi> when he lay a dying, and full of Chriſtian confidence and comfort. <hi>I ſhall change my place, but not my com<g ref="char:EOLhyphen"/>pany.</hi> The meaning was, that he had ſo acquainted himſelf with God here upon earth, and had ſo much converſed with him, that now that he was to dye, his company ſhould ſtill be the ſame after death, that it was in life. How far are they from being able to ſpeak this at their
+<pb n="70" facs="tcp:60027:37"/>death, that have had no care to ac<g ref="char:EOLhyphen"/>quaint themſelves with God, and to converſe with him in the courſe of their life?</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <hi>Thirdly.</hi> In the day of Judgment it will then be neceſſary that you ſhould have acquaintance with God. Can you your ſelves imagine but that God, who is the <hi>righteous Judge of all the world,</hi> will in that great day look, and judge, and pronounce, far otherwiſe upon thoſe that have been here acquainted with him, than up<g ref="char:EOLhyphen"/>on thoſe that have lived and dyed ſtrangers and enemies to him? <q>To the one he will ſay, Come ye bleſ<g ref="char:EOLhyphen"/>ſed, ye have known me, and I have known you; you have loved me, and I have loved you; you have viſited me, and I have viſited you, and you have thankfully and glad<g ref="char:EOLhyphen"/>ly entertained thoſe viſits, you have been of my old acquaint<g ref="char:EOLhyphen"/>ance, many a prayer have I re<g ref="char:EOLhyphen"/>ceived from you, and many a tear have you dropt into my bottle; come therefore, come ye bleſſed,
+<pb n="71" facs="tcp:60027:37"/>inherit the Kingdom prepared for you from the beginning of the world. But to the other he will ſay, go ye curſed, ye have not known me, ye have not loved me, ye have not regarded to acquaint your ſelves with me, ye <hi>have ſet at nought all my counſels, and would none of my reproofs;</hi> ye have ſaid unto me, <hi>depart from us, we deſire not the knowledge of thy wayes.</hi>
+                  </q> Therefore now I ſay unto you, <hi>de<g ref="char:EOLhyphen"/>part from me into everlaſting fire, pre<g ref="char:EOLhyphen"/>pared for the devil and his angels.</hi> O dreadful ſentence, dreadful to hear, intolerable to bear, which yet ye can no wayes avoid, but by acquainting your ſelves with God. You muſt of neceſſity acquaint your ſelves with God, or dye miſerably, and periſh eternally. O preſs theſe and the like conſiderations upon your ſelves, till you be throughly and effectually convinced of an abſolute neceſſity of acquainting your ſelves with God. Then,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>Secondly.</hi> Labour to be ſeriouſly
+<pb n="72" facs="tcp:60027:38"/>and deeply humbled, that you have lived ſo <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ong as you have done, and lived unacquainted with God. Let me plead with you as <hi>Moſes</hi> doth with <hi>Iſrael; Do ye thus requite the Lord, O fooliſh people,</hi>
+                  <note place="margin">Deut. 32.6.</note> 
+                  <hi>and unwiſe? is not he thy father that hath bought thee? hath he not made thee, and eſtabliſhed thee?</hi> 
+                  <q>Is not he that God that hath given thee life and being, that hath pre<g ref="char:EOLhyphen"/>ſerved thee, upheld thee, main<g ref="char:EOLhyphen"/>tained thee, fed thee, clothed thee? is not he the God in whoſe hands thy breath, and all thy ways are? upon whoſe pleaſure and favour thou dependeſt for all thy preſent and eternal good, who is able to kill or cauſe to live, to ſave or to deſtroy, to make bleſ<g ref="char:EOLhyphen"/>ſed, or to make miſerable, to all eternity? And haſt thou lived twenty, thirty, or forty years <hi>be<g ref="char:EOLhyphen"/>fore this God, yea, upon this God,</hi> and all this while never acquainted thy ſelf at all with him? O what unthankfulneſs, what diſingenuity, what folly, what brutiſhneſs is
+<pb n="73" facs="tcp:60027:38"/>this? If thou hadſt fed a horſe or a dog but the tenth part of that time that God hath fed thee, he would have taken more knowledge and ac<g ref="char:EOLhyphen"/>quaintance of thee than thou didſt ever do of God.</q>
+               </p>
+               <p>Yea, thou haſt not only not ac<g ref="char:EOLhyphen"/>quainted thy ſelf with God, but thou haſt not cared, thou haſt not re<g ref="char:EOLhyphen"/>garded to acquaint thy ſelf with him, but haſt lived in a continual mind<g ref="char:EOLhyphen"/>leſsneſs and regardleſsneſs of God. <hi>Of the rock that begat thee,</hi>
+                  <note place="margin">Deut. 32.18.</note> 
+                  <hi>thou art unmindful, and haſt forgotten the God that formed thee.</hi>
+               </p>
+               <p>Yea, thou haſt not only neglect<g ref="char:EOLhyphen"/>ed acquaintance with God, but thou haſt deſpiſed it, undervalued it, pre<g ref="char:EOLhyphen"/>ferred converſe with the world, and with thy luſts above converſe and acquaintance with God, as if a man ſhould prefer the company and con<g ref="char:EOLhyphen"/>ſortſhip of beggars and thieves, and whores, and ſuch like lewd perſons, before the favour, familiarity, and acquaintance of his Sovereign King: ſuch an affront haſt thou put
+<pb n="74" facs="tcp:60027:39"/>upon the great God of heaven and earth. O let the thoughts of this afflict and humble thee in time, or elſe know that hereafter it will tor<g ref="char:EOLhyphen"/>ment thee to all eternity, and make thee tear thy fleſh, and gnaw thy tongue, and curſe thy ſelf for rage &amp; indignation at this thy preſent folly.</p>
+               <p>
+                  <hi>Thirdly.</hi> When you have thus convinced your ſelves of a neceſſity of getting acquaintance with God, <milestone type="tcpmilestone" unit="unspecified" n="3"/> and humbled your ſelves for living ſo long without acquaintance with God, Then in the third place, be careful to remove thoſe things which may be bars in your way, and may obſtruct and hinder your ac<g ref="char:EOLhyphen"/>quaintance with God. Now what is that? why ſin, and only ſin. Sin is the <hi>wall of ſeparation</hi> between God and us, that keeps God and us from meeting together, and from ac<g ref="char:EOLhyphen"/>quainting one with another. <hi>Your ſins have ſeparated between God and you, and have hid his face from you.</hi>
+                  <note place="margin">Iſa. 59.2.</note> There<g ref="char:EOLhyphen"/>fore ſaith God, <hi>Waſh you, make you clean,</hi>
+                  <note place="margin">Iſa. 1.16, 17.</note> 
+                  <hi>put away the evil of your doings
+<pb n="75" facs="tcp:60027:39"/>from before mine eyes; ceaſe to do evil, learn to do well. Come now and let us reaſon together.</hi> As if God had ſaid, Ay, now you have repented, and made your ſelves clean from ſin, now you are fit for God to treat withal, before you were not fit to come near him, nor approach his preſence. A rebel that would be admitted into his Princes favour and acquaintance, muſt firſt throw down his weapons of rebellion: ſo muſt they that would have any ac<g ref="char:EOLhyphen"/>quaintance with God, they muſt put away ſin, all ſin.</p>
+               <p>Sin is the only thing that God hates, and is an enemy againſt, for its own ſake; they therefore that would have any acquaintance with God, muſt renounce all acquaint<g ref="char:EOLhyphen"/>ance and familiarity with ſin. <hi>If I regard iniquity in my heart:</hi>
+                  <note place="margin">Pſal. 66.18.</note> 
+                  <hi>God will not hear my prayer.</hi> Let a man pray never ſo often, and never ſo earn<g ref="char:EOLhyphen"/>eſtly, and beg acquaintance with God never ſo much, yet if he re<g ref="char:EOLhyphen"/>gard iniquity in his heart, God will
+<pb n="76" facs="tcp:60027:40" rendition="simple:additions"/>not regard him, nor his prayers. We muſt therefore reſolve to break off all our leagues with ſin, to give a bill of divorce to every luſt, to renounce for ever all acquaintance with ſin, or elſe to renounce all ac<g ref="char:EOLhyphen"/>quaintance with God. Now which of theſe two would you rather do?</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                  <hi>Fourthly.</hi> When you have thus convinced your ſelves of a neceſſity of acquainting your ſelves with God, and have humbled your ſelves for living ſo long without acquaint<g ref="char:EOLhyphen"/>ance with God, and have not only reſolved, but have actually renoun<g ref="char:EOLhyphen"/>ced every evil way: you muſt not now think, that for your humilia<g ref="char:EOLhyphen"/>tion, or for your repentance, or for your forſaking of your ſins God is obliged or bound to take you for his friends, or to admit you into his acquaintance. No, theſe things you muſt do, or elſe never look for acquaintance with God: and when you have done all this, you muſt acknowledge, that if God ſhould caſt away you from his pre<g ref="char:EOLhyphen"/>ſence,
+<pb n="77" facs="tcp:60027:40" rendition="simple:additions"/>&amp; refuſe to know your ſouls, it were but juſt and righteous. And if God doth ever admit you into his familiarity, it is of his meer con<g ref="char:EOLhyphen"/>deſcenſion and grace, and therefore, In the <hi>fourth</hi> place, you muſt make uſe of a <hi>Mediatour</hi> to bring you into acquaintance with God. This courſe men take, who deſire to get the fa<g ref="char:EOLhyphen"/>vour and acquaintance of their Prince, or Sovereign, being them<g ref="char:EOLhyphen"/>ſelves ſtrangers, much more if they have been enemies to him, they make uſe of ſome ſpecial favourite to make way for them, to procure acceſs into his preſence, and to in<g ref="char:EOLhyphen"/>gratiate them with him, that ſo they may get acquaintance. Now, ſuch is the condition of all of us by na<g ref="char:EOLhyphen"/>nature in reſpect of God: we are not only ſtrangers to him, but ene<g ref="char:EOLhyphen"/>mies, <hi>Alienated,</hi>
+                  <note place="margin">Coloſ. 1.21.</note> 
+                  <hi>and enemies in our minds by wicked works.</hi> And being ſuch, our only way to get acquaint<g ref="char:EOLhyphen"/>ance with God, is to make uſe of a Mediatour; What Mediatour? <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> or <hi>Paul,</hi> or the <hi>Virgin Mary,</hi> or
+<pb n="78" facs="tcp:60027:41"/>any other of the Saints in glory, as the Papiſts do? <hi>Alas,</hi> Abraham <hi>knows us not,</hi>
+                  <note place="margin">Iſa. 63.16.</note> 
+                  <hi>and</hi> Iſrael <hi>is ignorant of us.</hi> If they were not, yet they are not high enough in the favour of God to prevail for us. No, no, as <hi>there is but one God,</hi> ſo <hi>there is but one Mediatour betwixt God and Man,</hi>
+                  <note place="margin">1 Tim. 2.5.</note> 
+                  <hi>the man Chriſt Jeſus.</hi> He is the great fa<g ref="char:EOLhyphen"/>vourite of heaven, who alone can bring us into acquaintance with God. O therefore make uſe of him.</p>
+               <p>If you ask, What is the uſe you ſhould make of <hi>Chriſt</hi> the Media<g ref="char:EOLhyphen"/>tour,<label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>1</label> and how you ſhould make uſe of him?</p>
+               <p>To the firſt of theſe, I anſwer. The uſe you are to make of Chriſt the Mediatour,<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>1</label> in order to the gain<g ref="char:EOLhyphen"/>ing of acquaintance with God, con<g ref="char:EOLhyphen"/>ſiſts in theſe particulars.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>Firſt.</hi> You are to make uſe of Chriſt the Mediatour for your re<g ref="char:EOLhyphen"/>conciliation and peace with God. Peace muſt be before acquaintance
+<pb n="79" facs="tcp:60027:41" rendition="simple:additions"/>can be. <hi>And he muſt be your peace, Eph.</hi> 2.14.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>Secondly.</hi> You muſt make uſe of <hi>Chriſt</hi> for bringing of you into Gods preſence. As <hi>Joſeph</hi> being the fa<g ref="char:EOLhyphen"/>vourite of the Court of <hi>Egypt,</hi> brought <hi>Jacob</hi> and his Sons into the preſence of the King. <hi>It is Chriſt in whom we have boldneſs and acceſs with confidence.</hi>
+                  <note place="margin">Eph. 3.12</note> The Original <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is very ſignificant. Never come in<g ref="char:EOLhyphen"/>to Gods preſence, but get <hi>Chriſt</hi> to take thee by the hand.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <hi>Thirdly.</hi> You muſt make uſe of <hi>Chriſt</hi> to procure you acceptance with God. For as the Apoſtle ſaith, <hi>He hath made us accepted in the be<g ref="char:EOLhyphen"/>loved.</hi>
+                  <note place="margin">Eph. 1.6.</note>
+               </p>
+               <p>
+                  <hi>Fourthly.</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Make uſe of <hi>Chriſt</hi> for the giving of you the true, &amp; ſaving, and ſpiritual, and effectual know<g ref="char:EOLhyphen"/>ledge of God, without which you can never have true acquaintance with him. <hi>No man knoweth the Fa<g ref="char:EOLhyphen"/>ther, but the Son,</hi>
+                  <note place="margin">Mat. 11.27.</note> 
+                  <hi>and he to whom the Son will reveal him.</hi>
+               </p>
+               <p>
+                  <hi>Fifthly.</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> You muſt make uſe of
+<pb n="80" facs="tcp:60027:42"/>
+                  <hi>Chriſt</hi> for the procuring and ſend<g ref="char:EOLhyphen"/>ing down of that holy Spirit, without which we can never have any true converſe or familiarity with God. Our converſe with God lyes partly in our viſiting God in prayer, that we cannot do without his holy Spi<g ref="char:EOLhyphen"/>rit, which is a ſpirit of prayer, and partly it lyes in Gods viſiting us, which he doth not but by the <hi>breath<g ref="char:EOLhyphen"/>ings,</hi> and <hi>motions,</hi> and <hi>excitations,</hi> and <hi>inlargements,</hi> and <hi>conſolations</hi> of his bleſſed Spirit.</p>
+               <p>
+                  <hi>Sixthly.</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> We muſt make uſe of <hi>Chriſt,</hi> as to bring us into the favour of God, ſo to keep and preſerve us in the favour and acquaintance of God.</p>
+               <p>If you ask,<label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>2</label> How you ſhould make uſe of Chriſt in theſe parti<g ref="char:EOLhyphen"/>culars?</p>
+               <p>I anſwer.<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>2</label> Only by Faith, by be<g ref="char:EOLhyphen"/>lieving in him, and truſting to him as the Son of <hi>God,</hi> the <hi>Mediatour,</hi> the <hi>Advocate of ſinners,</hi> to do all this for us.</p>
+               <p>This therefore do when the guilt
+<pb n="81" facs="tcp:60027:42"/>of your ſins looks you in the face, commit your ſelf and cauſe unto Chriſt, relye upon him to anſwer for you. When the doors of mercy, and of acceſs to God, ſeem to be ſhut againſt you, <hi>flye to him</hi> that bears the keys, and can at any time open to you, and let you into Gods preſence. Deſire him to <hi>undertake</hi> for you, to <hi>anſwer</hi> for you to God, to your own conſciences, to Satans accuſations, and rely boldly and confidently upon him, to do it for you. By him alone you may boldly and comfortably converſe with God, but without him, no drawing near,<note place="margin">Heb. 12.29.</note> for <hi>our God is a conſuming fire.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                  <hi>Fifthly.</hi> When you have thus convinced your ſelves of a neceſſity of acquaintance with God, when you have humbled your ſelves for living ſo long as you have done without it, when you have removed obſtructions, when you have en<g ref="char:EOLhyphen"/>gaged the Mediatour, Then in the fifth place, do your duty. <hi>Ne tibi
+<pb n="82" facs="tcp:60027:43"/>deſis,</hi> do all that may poſſibly be done for the bringing of you into ac<g ref="char:EOLhyphen"/>quaintance with God. As namely,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt. Viſit God often with your prayers.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly. Frequent Gods houſe, the publique aſſemblies of the Saints, where God dwells, where Chriſt walks in the midſt of the golden candleſticks.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly. Practiſe the duty of ſetting the Lord always before you, and ſetting your ſelves often in Gods preſence.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly. Aſſociate thy ſelf with the Saints, thoſe that are the friends and acquaintance God hath upon earth, that is a ready way to bring thee into the notice and acquaint<g ref="char:EOLhyphen"/>ance of God: as <hi>Ruths</hi> gleaning a<g ref="char:EOLhyphen"/>mong <hi>Boaz</hi> his ſervants, was the firſt way of bringing her into <hi>Boaz</hi> his knowledge, and acquaintance, and of all the preferments that follow<g ref="char:EOLhyphen"/>ed to her thereupon.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly. Beg for, and wait for a <hi>viſit</hi> from God by his Spirit, and
+<pb n="83" facs="tcp:60027:43"/>be importunate, be impudent here, take no denial, be not ſatisfied in one, or in few, but beg ſtill more and more; ſay with the Pſalmiſt, <hi>Remember me, O Lord, with the favour thou beareſt unto thy people:</hi>
+                  <note place="margin">Pſalm 106.4.</note> 
+                  <hi>O viſit me with thy ſalvation.</hi>
+               </p>
+               <p>Sixthly, and Laſtly. <milestone type="tcpmilestone" unit="unspecified" n="6"/> Study com<g ref="char:EOLhyphen"/>pliance with God, and give thy ſelf to a punctual and exact obſervation of his will in all things. And theſe are the wayes of getting intimacy and acquaintance with God.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>CHAP. VII.</hi> Exhorting thoſe that have ac<g ref="char:EOLhyphen"/>quaintance with God, to keep and maintain it.</head>
+               <p>MY next work is to exhort thoſe that have acquaintance with God, that they would be very careful to keep and maintain that acquaintance that they have with
+<pb n="84" facs="tcp:60027:44"/>God. And to move to this, I hope I ſhall need do no more than tell you, that it is a <hi>very poſſible</hi> thing for you to loſe that acquaintance and familiarity which you have with God. Though it is true, <hi>Once the Lords, and ever the Lords;</hi> and, <hi>whom God loves once, he loves alwayes;</hi> and it is not poſſible for any that have e<g ref="char:EOLhyphen"/>ver been reconciled unto God, and brought into his favour by Jeſus Chriſt, <hi>totally</hi> and <hi>finally</hi> to fall out of his favour again; yet it is poſſi<g ref="char:EOLhyphen"/>ble for you to loſe that ſweet inti<g ref="char:EOLhyphen"/>macy, and familiarity, and inter<g ref="char:EOLhyphen"/>courſe, and acquaintance that you had with God, which was both the fruit and evidence of the love of God, and of your being in favour with him, it is poſſible for you to loſe your acquaintance with God, ſo far as that you may look upon God as a ſtranger, and God may look upon you as a ſtranger, as one whom he takes no notice of, of whom he hath no acquaintance with; you may look upon God as an enemy,
+<pb n="85" facs="tcp:60027:44"/>and God may look upon you as an enemy, ſo far may you loſe your ac<g ref="char:EOLhyphen"/>quaintance with God. This I muſt tell you.</p>
+               <p>And when I have told you this, I need tell you no more; for you that have indeed had this acquaintance with God, have I know found ſo much ſweetneſs in it, and do ſo prize and value it, that if you were put to your choice, whether you would part with the acquaintance of the deareſt friend you had, Father, or Mother, or Brother, or Siſter, or Husband, or Wife, or part with your acquaintance with God; nay, whether you would part with all you are worth, nay, with your very lives, or part with your acquaint<g ref="char:EOLhyphen"/>ance with God; I know you would part with all, rather than part with that. I look therefore, that upon the very hearing that there is but ſo much as a poſſibility for you to loſe it, you ſhould preſently ask me, What you ſhould do to retain it? I anſwer.</p>
+               <pb n="86" facs="tcp:60027:45"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>Firſt.</hi> Maintain in your hearts this high eſteem of your intimacy and acquaintance with God, prize it above any other of your enjoy<g ref="char:EOLhyphen"/>ments whatſoever. <hi>Seemeth it a ſmall matter in your eyes to be the Son-in-law of a King?</hi>
+                  <note place="margin">1 Sam. 13.23.</note> ſaith <hi>David</hi> to <hi>Sauls</hi> ſer<g ref="char:EOLhyphen"/>vants: ſo ſay to thine own ſoul, Is it a ſmall matter to have acquaint<g ref="char:EOLhyphen"/>ance with God, to be the friend, the favourite of God, to have familiar acceſs to, and intercourſe with God? O prize it, and let God know thou doſt prize it as thou wouldſt prize heaven it ſelf.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>Secondly.</hi> Maintain not a diſcou<g ref="char:EOLhyphen"/>raging and diſtruſtful, but a vigi<g ref="char:EOLhyphen"/>lant and wakeful fear, of loſing this pretious injoyment. <hi>Optimus the<g ref="char:EOLhyphen"/>ſauri cuſtos timor eſt.</hi> Fear is the beſt keeper and preſerver of things that are dear and pretious, many a jewel is loſt through careleſsneſs and rechleſsneſs that might have been kept with fear and watchfulneſs.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <hi>Thirdly.</hi> Take heed of all ſuch things as may <hi>unſoder</hi> and <hi>diſſolve</hi> the
+<pb n="87" facs="tcp:60027:45"/>acquaintance that is between God and you. As for inſtance.</p>
+               <p>
+                  <hi>Firſt.</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Take heed of falling into groſs and preſumptuous ſins; for do you not know in your ſouls, that eve<g ref="char:EOLhyphen"/>ry groſs ſin willingly committed, doth vex and grieve God? and do you not know, that if you vex and grieve God, he will be ſo far from continuing his friendſhip and ac<g ref="char:EOLhyphen"/>quaintance with you, that he will be turned to be your enemy? If I know that the doing of ſuch or ſuch a thing will vex a man that is my friend, and yet I will do it, vexed let him be, I will do it; this plainly ſhews I little value the mans friend<g ref="char:EOLhyphen"/>ſhip, and when he knows it, he will value mine as little, and ſo friend<g ref="char:EOLhyphen"/>ſhip and acquaintance will be inter<g ref="char:EOLhyphen"/>rupted and broken off between us: thou knoweſt as well as I can tell thee, that there is no ſin but it vex<g ref="char:EOLhyphen"/>eth God, and there is nothing that vexeth God but ſin, and yet wilt thou ſin? wilt thou ſin, though thou knoweſt ſin is the only thing that
+<pb n="88" facs="tcp:60027:46"/>vexeth God, yet wilt thou ſin? this is an argument thou valueſt friend<g ref="char:EOLhyphen"/>ſhip and acquaintance with God at a low rate. And if thou thus ſin and vex God, and ſlight his acquaint<g ref="char:EOLhyphen"/>ance, I tell thee, God will ſhake thee off from all acquaintance with him, and become thine enemy; nay, himſelf tells thee ſo. <hi>But they rebelled and vexed his holy Spirit,</hi>
+                  <note place="margin">Iſa. 63.10</note> 
+                  <hi>therefore he was turned to be their enemy.</hi> Take heed therefore of vexing God by willing and known ſin.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>Secondly.</hi> Take heed of being too familiar, and holding too much correſpondency and intimacy with wicked and ungodly men that are Gods enemies; we our ſelves will not take him for our friend, that is inward and intire with our profeſ<g ref="char:EOLhyphen"/>ſed Adverſaries. <hi>Zabud</hi> was <hi>Solo<g ref="char:EOLhyphen"/>mons friend: Solomon</hi> had three ſpe<g ref="char:EOLhyphen"/>cial and known enemies.<note place="margin">1 King. 11</note> 
+                  <hi>Hadad, Re<g ref="char:EOLhyphen"/>zon,</hi> and <hi>Jeroboam.</hi> Now if <hi>Zabud</hi> meant to hold in with <hi>Solomon,</hi> it had been no wiſdom in the world for him to fall into acquaintance
+<pb n="89" facs="tcp:60027:46"/>with any of theſe three perſons, it had been enough to caſt him out of the favour of <hi>Solomon</hi> for ever: ſo here, if we fall into intimacy and acquaintance with Gods open pro<g ref="char:EOLhyphen"/>feſſed, branded enemies, what can we look for but that God ſhould ca<g ref="char:EOLhyphen"/>ſhiere us his acquaintance, and ſay to us as he did to <hi>Jehoſhaphat,</hi> Shouldſt <hi>thou help the ungodly,</hi>
+                  <note place="margin">2 Chron. 19.2.</note> 
+                  <hi>and love them that hate the Lord? therefore is wrath come upon thee from the Lord.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly.</hi> Take heed of dealing treacherouſly with God. <milestone type="tcpmilestone" unit="unspecified" n="3"/> That is it the Lord chargeth the people with<g ref="char:EOLhyphen"/>al, by the Prophet <hi>Jeremiah; Surely, as a wife treacherouſly departeth from her husband:</hi>
+                  <note place="margin">Jer. 3.20.</note> or as the Original hath it, <hi>from her friend: ſo have you dealt treacherouſly with me, O houſe of</hi> Iſrael, <hi>ſaith the Lord.</hi> A Wife may have her failings, upon which the Hus<g ref="char:EOLhyphen"/>band poſſibly may frown and chide, and give her round language, but for all that he will be friends with her ſtill, and continue in habitation with her ſtill; but if once he come to
+<pb n="90" facs="tcp:60027:47"/>perceive that ſhe deals treacherouſ<g ref="char:EOLhyphen"/>ly with him, that ſhe imbraceth the boſom of a ſtranger, that ſhe loves another man better than ſhe loves him; this quite breaks in ſunder the knot of conjugal love and ſocie<g ref="char:EOLhyphen"/>ty between them, this is an unpar<g ref="char:EOLhyphen"/>donable ſin, <hi>and an iniquity to be pu<g ref="char:EOLhyphen"/>niſhed by the Judge,</hi>
+                  <note place="margin">Job 31.11.</note> as <hi>Job</hi> ſpeaks: So it is here, the friends and ac<g ref="char:EOLhyphen"/>quaintance of God may have their failings and miſcarriages, for which God may frown upon them, chide and rebuke them, but yet retain them in his favour ſtill: but if once he perceive that they deal treache<g ref="char:EOLhyphen"/>rouſly with him, if once they come to prefer any thing in their love be<g ref="char:EOLhyphen"/>fore himſelf, and his acquaintance, this will be a breach indeed between God and them. O therefore, as you prize acquaintance with God, take heed of the inordinate love of the world, and the things of the world. Remember what the Apo<g ref="char:EOLhyphen"/>ſtle <hi>James</hi> ſaith,<note place="margin">James 4.4.</note> 
+                  <hi>Ye adulterers, and adultereſſes, know ye not that the friend<g ref="char:EOLhyphen"/>ſhip
+<pb n="91" facs="tcp:60027:47"/>of the world is enmity with God? Whoſoever therefore will be a friend of the world, is the enemy of God.</hi> Take heed therefore of the world.</p>
+               <p>
+                  <hi>Fourthly.</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Take heed of too much abſence from God, and diſcontinu<g ref="char:EOLhyphen"/>ance of acquaintance, converſe, and familiarity with him. Some things there are that do <hi>diſſecare amicitiam,</hi> chop in ſunder friendſhip and ac<g ref="char:EOLhyphen"/>quaintance, as it were, at one ſtroke, and ſome things do <hi>diſſuere amiciti<g ref="char:EOLhyphen"/>am,</hi> unrip and unſew it, and looſen it by little and little; great un<g ref="char:EOLhyphen"/>kindneſſes, wrongs, and injuries, theſe cut the bands of love and friendſhip in ſunder; but long ab<g ref="char:EOLhyphen"/>ſence of friends one from another, and diſcontinuance of converſe and familiarity, and letting fall the per<g ref="char:EOLhyphen"/>formance of friendly offices, viſits, colloquies, and the like; theſe looſen friendſhip by degrees, and cauſe it to languiſh and dye. Hence the Proverb of <hi>amicitia Academica,</hi> Uni<g ref="char:EOLhyphen"/>verſity-friendſhip, that holds only for a time. Scholars while they live
+<pb n="92" facs="tcp:60027:48"/>together in the ſame Univerſity, often meeting, and walking, and talking together, they grow into great familiarity and acquaintance one with another; but afterwards being parted, and living at diſtance one from another, their friendſhip and acquaintance dyes, and is ex<g ref="char:EOLhyphen"/>tinct: ſo it is here, abſence from God, diſuſe and diſcontinuance of communion with him, not fre<g ref="char:EOLhyphen"/>quenting Gods company, not often reſorting to him, and ſpeaking to him, will not only looſen, but loſe our acquaintance with him.</p>
+               <p>If therefore we would maintain our acquaintance with God, we muſt often and daily viſit him, frequent his houſe and Ordinances, be fre<g ref="char:EOLhyphen"/>quent in reading, hearing, praying; converſe with him by holy medita<g ref="char:EOLhyphen"/>tions, and ſoliloquies, invite him home to us, importune him to vi<g ref="char:EOLhyphen"/>ſit our hearts with his Spirit: as we do by our other friends, we often viſit them, and invite them to viſit us, aſſuring them that our houſe,
+<pb n="93" facs="tcp:60027:48"/>and any thing that we have, is at their ſervice: th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s muſt we deal with God, and this is the way to maintain communion and acquaint<g ref="char:EOLhyphen"/>ance with him.</p>
+               <p>
+                  <hi>Fifthly.</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> Take heed of enter<g ref="char:EOLhyphen"/>taining jealouſies and ſuſpitions of God, and of his love unto thee, or taking things unkindly at Gods hand. Many a man by taking up a groundleſs conceit that his friend is alienated from him, gives his friend juſt cauſe of alienation, and ſo loſeth his friend: I am ſure we often deal ſo with God; and I am perſwaded there is ſcarce any one thing whereby the true friends of God do more grieve him, and hin<g ref="char:EOLhyphen"/>der their free and comfortable ac<g ref="char:EOLhyphen"/>quaintance with him, than by think<g ref="char:EOLhyphen"/>ing that God, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is eaſily provoked, ſo eaſily, that for involun<g ref="char:EOLhyphen"/>tary failings and infirmities, ſuch as are wandring thoughts, deadneſs of heart in prayer, and the like, (which God knows they cannot help if their lives lay upon it, and God
+<pb n="94" facs="tcp:60027:49"/>knows they are as bitter to them as death it ſelf) and yet they do think, that for theſe God will fall quite out with them, and <hi>tantum non,</hi> caſt them down to hell; and by theſe hard thoughts they grieve God, they break the law of friendſhip, they diſcourage and diſhearten themſelves from converſe with God, and ſo their hearts are alienated and eſtranged from God, and then they (meaſuring God by themſelves, as if he were like one of us) think God is eſtranged from them, and fallen out with them, when indeed it is, they are fallen out with him. Therefore take heed of theſe thoughts of God.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                  <hi>Sixthly.</hi> Take heed that Satan do not ſet in his foot between God and you; take heed you give no ear to what he will tell you concerning God, and the purpoſes and diſpen<g ref="char:EOLhyphen"/>ſations of God towards you. You know what the holy Ghoſt faith, <hi>A whiſperer ſeparateth chief friends.</hi>
+                  <note place="margin">Pro. 16.28.</note> There are no two friends in the
+<pb n="95" facs="tcp:60027:49"/>world ſo great, but if either of them liſten and give way to whiſ<g ref="char:EOLhyphen"/>perers, or detractors, that ſeek to ſet ſtrife and variance between them, and believe every tale that they tell, bands of friendſhip will quickly be looſed, and they will be as great enemies as ever they were friends; we know that Satans great deſign is to ſet ſtrife between God and Man; he began this game in paradiſe, God and Man were per<g ref="char:EOLhyphen"/>fect friends, till the Devil comes like a whiſperer and ſlanders God, and tells <hi>Eve</hi> that it was out of meer envy and ill will that God had for<g ref="char:EOLhyphen"/>bidden her and her husband to eat of the tree of knowledge of good and evil, and ſhe believing this ſlan<g ref="char:EOLhyphen"/>der did eat, and ſo the league of friendſhip was broken between God and her: ſo deals the Devil ſtill, not indeed with thoſe whom he knows to be Gods enemies, he doth not trouble their heads much with the thoughts of God, but fills their heads with the thoughts of other
+<pb n="96" facs="tcp:60027:50"/>matters; but where he knows, or but ſuſpects any to be the friends of God, or perceives them but to be ſeeking after reconciliation and ac<g ref="char:EOLhyphen"/>quaintance with God, O the ſtrange thoughts of God that he buzzeth in<g ref="char:EOLhyphen"/>to their minds! ſometimes he tells them that God hates them worſe than he hates a dog or a toad: that it is in vain for them to pray, or re<g ref="char:EOLhyphen"/>pent, or to do any thing, God hath rejected them, they are reprobate from all eternity; if God afflict them, he tells them, that now they may ſee and feel, if they will, that God is angry with them, and hates them, and theſe afflictions are but the fore-runners and beginnings of hell, and what they feel here is no<g ref="char:EOLhyphen"/>thing to what they ſhall feel here<g ref="char:EOLhyphen"/>after: of God ſpare them from affli<g ref="char:EOLhyphen"/>ction, he tells them, God doth this but to fat them againſt the day of ſlaughter, and that they may the ſooner fill up the meaſure of their ſin and be ripe for hell. And thus Satan ſlanders God in all his wayes,
+<pb n="97" facs="tcp:60027:50"/>and that not to the wicked, and thoſe that are Gods enemies, but to thoſe that are his friends; and the be<g ref="char:EOLhyphen"/>lieving of thoſe lyes and ſlanders of Satan againſt God, proves many times, the very bane and break<g ref="char:EOLhyphen"/>neck, as I may ſo ſay, of acquaint<g ref="char:EOLhyphen"/>ance with God. Therefore take heed of giving credit to the Devil and his ſuggeſtions, and whatever Satan tells you of God, believe it not, but believe the contrary to be true, becauſe that which <hi>Satan</hi> ſpeaks of God cannot but be falſe. Thus I have ſhewn you what the things are we muſt take heed of, if we would maintain our acquaintance with God. Which is the third di<g ref="char:EOLhyphen"/>rection.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                  <hi>Fourthly.</hi> If thou wouldſt main<g ref="char:EOLhyphen"/>tain thy acquaintance with God, look that thy heart be ſincere and upright with him. No man would entertain into his boſom, as his en<g ref="char:EOLhyphen"/>tire friend, one that he knows doth but flatter and diſſemble with him, and in his heart doth not love him.
+<pb n="98" facs="tcp:60027:51"/>You know what <hi>Jehu</hi> ſaid to <hi>Jona<g ref="char:EOLhyphen"/>dab,</hi>
+                  <note place="margin">2 Kings 10.15.</note> 
+                  <hi>Is thine heart right as my heart is with thy heart?</hi> And when he ſaid, <hi>It is,</hi> then <hi>he bid him give him his hand, and he took him up to him into the charriot.</hi> God need not ask any of us that queſtion, <hi>Is thine heart right?</hi> for if it be not, he knows it well enough; and if it be not, he will never give us the <hi>hand</hi> of friendſhip, nor never take us up into <hi>the chariot</hi> of acquaintance with him<g ref="char:EOLhyphen"/>ſelf. To this therefore let us look that our hearts be right with God, that what profeſſion we make of our love, and of our deſires of acquaint<g ref="char:EOLhyphen"/>ance with him, may come from a good and honeſt heart.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                  <hi>Fifthly.</hi> If you would maintain and keep your acquaintance with God, then labour to increaſe your acquaintance with God, and to grow in it. For as grace, ſo the privi<g ref="char:EOLhyphen"/>ledges of grace are of that nature, that they cannot ſtand at a ſtay, but are like the Sun, alwayes either aſcending or deſcending, like the
+<pb n="99" facs="tcp:60027:51"/>Sea, that is ever either ebbing or flowing, ſo theſe are ever either in<g ref="char:EOLhyphen"/>creaſing or decreaſing, either grow<g ref="char:EOLhyphen"/>ing or decaying. If therefore you would not have your acquaintance with God decay and dye, have a care that it may increaſe and grow. And to that end labour to grow in thoſe things wherein acquaintance with God lyes; as namely, 1. In the knowledge of God, <hi>Hoſ.</hi> 6.3. 2. In converſe with God. 3. In conſi<g ref="char:EOLhyphen"/>dence in God. 4. In conformity unto God. Converſe with God will conform us unto God, and confor<g ref="char:EOLhyphen"/>mity unto God will confirm and in<g ref="char:EOLhyphen"/>creaſe our converſe with God.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                  <hi>Sixthly.</hi> Be willing to be ruled by God in all things, be punctual in obſerving his commands; exactly careful to pleaſe him well in all things. So in the verſe after the Text, <hi>Receive the Law from his mouth,</hi>
+                  <note place="margin">Job 22.22.</note> 
+                  <hi>and lay up his words in thine heart.</hi> Let Gods word be a Law to thee, <hi>Joh.</hi> 14.21, 23.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+                  <hi>Laſtly.</hi> Be much in converſe with
+<pb n="100" facs="tcp:60027:52"/>thoſe that are the friends and ac<g ref="char:EOLhyphen"/>quaintance of God. Let them be thy companions, ſo they were <hi>Da<g ref="char:EOLhyphen"/>vids;</hi>
+                  <note place="margin">Pſal. 119.63.</note> 
+                  <hi>I am a companion of all them that fear thee.</hi> Let them be thy de<g ref="char:EOLhyphen"/>light, ſo they were <hi>Davids; To the Saints that are in the earth,</hi>
+                  <note place="margin">Pſal. 16.3.</note> 
+                  <hi>and to the excellent in whom is all my delight.</hi> As conſorting our ſelves with the wick<g ref="char:EOLhyphen"/>ed, and ſuch as are Gods enemies, is the ready way to loſe our ac<g ref="char:EOLhyphen"/>quaintance with God; ſo on the contrary, conſorting with the Saints that are Gods friends, is the way to keep and hold our acquaintance with God.<note place="margin">1 Joh. 1.3.</note> 
+                  <hi>That which we have ſeen and heard, declare we unto you, that ye alſo may have fellowſhip with us; and truly our fellowſhip is with the Father, and with his Son Jeſus Chriſt.</hi>
+               </p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="101" facs="tcp:60027:52"/>
+               <head>
+                  <hi>CHAP. VIII.</hi> Exhorting thoſe who have loſt their acquaintance with God, to endeavour the recovery of it.</head>
+               <p>I Come now to exhort thoſe who have ſometimes had acquaint<g ref="char:EOLhyphen"/>ance with God, but have loſt it a<g ref="char:EOLhyphen"/>gain, that they would by all means poſſible endeavour the recovery of it. Now this is a ſtate and condition not impoſſible for the true Saints and friends of God to be reduced into. This is frequently mentioned in Scripture under ſeveral notions and terms, ſometimes under the notion of <hi>Gods withdrawing</hi> himſelf. <hi>I open<g ref="char:EOLhyphen"/>ed to my Beloved,</hi>
+                  <note place="margin">Cant. 56.</note> 
+                  <hi>but my Beloved hath withdrawn himſelf;</hi> ſometimes of <hi>Gods hiding himſelf. How long, Lord,</hi>
+                  <note place="margin">Pſal. 89.46.</note> 
+                  <hi>wilt thou hide thy ſelf</hi> for ever? ſome, times of <hi>caſting</hi> out. <hi>I will caſt you out of my ſight:</hi> ſometimes of <hi>ſhutting</hi>
+                  <pb n="102" facs="tcp:60027:53"/>out.<note place="margin">Lam. 3.8.</note> 
+                  <hi>Alſo, when I cry and ſhout, he ſhutteth out my prayer:</hi> ſometimes of <hi>caſting</hi> off:<note place="margin">Pſal. 43.2.</note> Why <hi>doſt thou caſt me off?</hi> And every one of theſe may ſeem to be a ſeveral degree or increaſe of loſs of acquaintance with God.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>Firſt.</hi> When <hi>God</hi> doth <hi>withdraw himſelf,</hi> and doth not ſo frequently <hi>viſit</hi> the ſoul with his grace and Spi<g ref="char:EOLhyphen"/>rit, as he was wont, here now is ſome abatement, ſome diminution of the acquaintance that was be<g ref="char:EOLhyphen"/>tween God and the ſoul. But then,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>Secondly.</hi> When <hi>God hides him<g ref="char:EOLhyphen"/>ſelf,</hi> that is, when the ſoul is ſenſi<g ref="char:EOLhyphen"/>ble of Gods withdrawing, doth ſet it ſelf ſeriouſly and earneſtly to ſeek God, and would fain find him, and re-injoy his preſence and commu<g ref="char:EOLhyphen"/>nion with him, and <hi>God hides him<g ref="char:EOLhyphen"/>ſelf,</hi> and the ſoul cannot find him, but it is as it was with thoſe we read of in <hi>Hoſea. They ſhall go with their flocks,</hi>
+                  <note place="margin">Hoſ. 5.6.</note> 
+                  <hi>and with their herds to ſeek the Lord; but they ſhall not find him, he bath withdrawn himſelf from them.</hi> This now is more. But,</p>
+               <pb n="103" facs="tcp:60027:53"/>
+               <p>
+                  <hi>Thirdly.</hi> When <hi>God</hi> doth not only thus hide himſelf, but <hi>caſt the ſoul</hi> as it were out <hi>of his ſight;</hi> this is more and heavien. As if a man, when one that hath been his acquantance comes to his houſe, he ſhould not only refuſe to ſee him<g ref="char:punc">▪</g> or ſpeak with him, but plainly turn him out of doors; this were a ſign of great alteration, and alienation of mind in one that had been a friend.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                  <hi>Fourthly.</hi> When <hi>God</hi> doth not on<g ref="char:EOLhyphen"/>ly caſt the ſoul out, but <hi>ſhut him out,</hi> ſhut the door of mercy as it were upon him, this is yet more.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                  <hi>Fifthly</hi> and <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtly.</hi> When God not only doth this, but even <hi>caſts off</hi> the ſoul, renounceth as it were all friendſhip and amity with it for the future, ſaying as the <hi>Romans</hi> were wont to do to their Wives, when they gave them a divorce, <hi>Res tuas tibi habeto,</hi> Look to your own mat<g ref="char:EOLhyphen"/>ters, I will have no more to do with you, or as the people did when they rejected the poſterity of <hi>David</hi> from reigning.<note place="margin">1 Kings 12.16.</note> 
+                  <hi>Now ſee to thine own</hi>
+                  <pb n="104" facs="tcp:60027:54"/>houſe <hi>David.</hi> Thus high may the breach come to be between God and thoſe that have been his friends and acquaintance.</p>
+               <p>Now a child of God, a friend, and acquaintance of God, doth then think and conclude, that God deals thus with him, <hi>withdraws</hi> himſelf, <hi>hides</hi> himſelf, <hi>caſts</hi> him <hi>out, caſts</hi> him <hi>off,</hi> when he finds God ſuſpending and with-holding the wonted influ<g ref="char:EOLhyphen"/>ences of the Spirit of grace from him.</p>
+               <p>For this acquaintance between <hi>God</hi> and our ſouls, as the Lord Jeſus Chriſt is the procurer of it, ſo the Spirit of grace is the <hi>Internuncius,</hi> the manager and worker of it; we can neither acquaint our ſelves with God, but by that Spirit, nor doth God acquaint himſelf with us, or communicate himſelf unto us, but by the ſame Spirit. When therefore the ſoul finds thoſe influences of the Spirit of God that it was wont to have, in praying, and hearing, and Sacraments, and other holy duties,
+<pb n="105" facs="tcp:60027:54"/>when the ſoul finds them with<g ref="char:EOLhyphen"/>drawn, it preſently fears, yea con<g ref="char:EOLhyphen"/>cludes God is grown a ſtranger, hides himſelf, and caſts the ſoul off.</p>
+               <p>Now the influences of Gods Spi<g ref="char:EOLhyphen"/>rit into the hearts of his people, are of two ſorts; Either <hi>influences of comfort,</hi> or <hi>influences of grace.</hi>
+               </p>
+               <p>
+                  <hi>Firſt.</hi> There are <hi>influences of comfort,</hi> which the Spirit of God ſends into the hearts of the Saints, ſhedding the love of God abroad in their hearts,<note place="margin">Rom. 5.5.</note> giving them ſuch a real, ſweet, powerful taſte, and feeling of the love of God in their ſouls, as fills them with joy un<g ref="char:EOLhyphen"/>ſpeakable and full of glory. Now when theſe ſweet and comfortable influences of the Spirit of God are ſuſpended and withdrawn, this can<g ref="char:EOLhyphen"/>not but make an alteration in the ſoul, in its apprehenſions of Gods love, and their in ereſt in him, and acquaintance with him.</p>
+               <p>
+                  <hi>Secondly.</hi> There are influences of the Spirit of God, which are influ<g ref="char:EOLhyphen"/>ences
+<pb n="106" facs="tcp:60027:55"/>of grace, and theſe are three<g ref="char:EOLhyphen"/>fold. Either,</p>
+               <p>
+                  <hi>Firſt.</hi> That influence of the Spi<g ref="char:EOLhyphen"/>rit, whereby grace is firſt infuſed and wrought in the ſoul. Or,</p>
+               <p>
+                  <hi>Secondly.</hi> That influence of the Spirit, whereby grace when it is in<g ref="char:EOLhyphen"/>fuſed, is actuated and ſet on work in the ſoul. Or,</p>
+               <p>
+                  <hi>Thirdly.</hi> That influence of the Spirit, whereby grace is increaſed and cauſed to grow in the ſoul.</p>
+               <p>Now for the infuſing and work<g ref="char:EOLhyphen"/>ing of grace in the ſoul, <hi>one ſingle</hi> influence of the Spirit is ſufficient; but for the actuating and increaſing of grace, renewed and repeated influences are requiſite. As one act of divine power and providence is enough for the producing of the creatures into being; but for the continuance of their being, and for their operations, there is required a continual efflux of providence; ſo it is here. Now when theſe influ<g ref="char:EOLhyphen"/>ences of the Spirit are ſuſpended and withdrawn, the ſoul can neither
+<pb n="107" facs="tcp:60027:55"/>keep up and carry on his acquaint<g ref="char:EOLhyphen"/>ance with God in a way of duty, ſo as it <hi>ſhould,</hi> nor apprehend God communicating himſelf and Spirit to him, ſo as it <hi>would,</hi> and ſo can<g ref="char:EOLhyphen"/>not but from both conclude an in<g ref="char:EOLhyphen"/>terruption of that acquaintance and familiarity that hath been between God and it.</p>
+               <p>Now to thoſe whoſe condition this is, give me leave to propound,</p>
+               <p>
+                  <hi>Firſt.</hi> Some things by way of ſupport and conſolation.</p>
+               <p>
+                  <hi>Secondly.</hi> Some things by way of counſel and direction. And,</p>
+               <p>
+                  <hi>Firſt.</hi> By way of ſupport and conſolation, ſeveral things I have to ſay.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> The <hi>Firſt</hi> is this. That how ſad and ſtrange ſoever thy condition may ſeem to be, thou art not the <hi>firſt,</hi> nor art like to be the <hi>laſt</hi> of the <hi>Friends</hi> and <hi>Saints</hi> of God, whoſe condition this hath been or may be. Read but over the Book of the Pſalms; how often do you find there the Saints complaining of <hi>Gods
+<pb n="108" facs="tcp:60027:56"/>hiding</hi> his face from them, <hi>caſting them</hi> out; <hi>caſting them</hi> off, <hi>forſaking, forgetting</hi> them, <hi>ſhutting out</hi> their prayers, and the like. Now this may be ſome comfort to thee, as it is to a man that is in a wilderneſs, to find the tract and footſteps of men that have gone that way before him.</p>
+               <p>There are, as <hi>Gerſon</hi> obſerves, three ſorts of Chriſtians.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Gerſon</hi> de monte con<g ref="char:EOLhyphen"/>templat. cap. <hi>22.</hi>
+                  </note>Some that are in <hi>a winter</hi> condi<g ref="char:EOLhyphen"/>tion. In winter you know the dayes are ſhort, and the nights are long, and the dayes for the moſt part are cloudy and dark, the Sun being ob<g ref="char:EOLhyphen"/>ſcured with many clouds and fogs; there are ſharp colds and great rains, and now and then it may be a fair day, but very rarely: ſo <hi>ſome Chriſtians</hi> they have ſhort <hi>dayes,</hi> and long <hi>nights,</hi> ſhort <hi>viſits,</hi> and long <hi>ab<g ref="char:EOLhyphen"/>ſence</hi> of God, they have much <hi>dark<g ref="char:EOLhyphen"/>neſs</hi> and little <hi>light,</hi>
+                  <note place="margin">Rara hora brevis mora. <hi>Ber<g ref="char:EOLhyphen"/>nard.</hi>
+                  </note> much <hi>coldneſs</hi> and little <hi>heat</hi> in their ſpirits, many ſhowres of griefs and tears, rarely now and then a gleam of comfort.</p>
+               <pb n="109" facs="tcp:60027:56"/>
+               <p>Other Chriſtians, ſaith he, are as it were in the ſpring, <hi>in primo ve<g ref="char:EOLhyphen"/>re.</hi> In the Spring you know, it is one day fair and clear, another day cloudy and rainy; but we ſee the Sun oftner in the Spring, and the beams of it are more vigorous and warmthful than in the winter: now theſe are ſuch whom the <hi>Sun of righteouſneſs</hi> doth more frequently viſit than the former, and ſheds more warmthful and vigorous in<g ref="char:EOLhyphen"/>fluences into their hearts, and yet withdraws himſelf from them ſome<g ref="char:EOLhyphen"/>times: ſometimes their Sun is un<g ref="char:EOLhyphen"/>der a cloud. <hi>Ut modicum illum vide<g ref="char:EOLhyphen"/>ant, &amp; modicum non videant;</hi> and they have their wet and ſorrowful dayes and times too.</p>
+               <p>Others there are with whom it is <hi>Midſummer,</hi> their Sun is ſeldom clouded: but when it is, it is more terrible, there are greater tempeſts of thunder, and lightning, and rain many times in ſummer than in win<g ref="char:EOLhyphen"/>ter, though not ſo conſtant rain. Theſe are the beſt and higheſt form
+<pb n="110" facs="tcp:60027:57"/>of <hi>Chriſtians:</hi> who though they en<g ref="char:EOLhyphen"/>joy a more conſtant ſerenity, and more conſtant peace and commu<g ref="char:EOLhyphen"/>nion with God, than the other, yet now and then meet with more vio<g ref="char:EOLhyphen"/>lent and ſtrong temptations, and deeper deſertions than the former, their temptations are very ſharp, but then they are ſhort. So that you ſee by this diſtribution there is no ſtate of a Chriſtian life on this ſide heaven exempted and priviledged from this hiding of Gods face, and ſuſpending the influences of his grace and love. Whether then thou be in thy <hi>Winter,</hi> or in thy <hi>Spring,</hi> or in thy <hi>Summer,</hi> clouds may come over thy ſoul that may hide the face of God from thee, and intercept the influences of his Spirit and grace; th s is common to Chriſtians, what<g ref="char:EOLhyphen"/>ever degree of grace they have at<g ref="char:EOLhyphen"/>tained: therefore ſay no more, that never any was in ſuch a condition as thou.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>The Second</hi> thing I have to ſay to thee is this; That the worſt of thy
+<pb n="111" facs="tcp:60027:57"/>condition is this, It is a withdraw<g ref="char:EOLhyphen"/>ing, not of <hi>the love of God</hi> from thee, but <hi>of wonted expreſſions</hi> of his love, it is but a withdrawing of the <hi>influ<g ref="char:EOLhyphen"/>ence</hi> of his Spirit from thee, <hi>not</hi> the <hi>preſence</hi> of his Spirit from thee; I ſay it is but a withdrawing of the manifeſtation of Gods love from thee; God doth not <hi>look</hi> ſo kindly upon thee when thou comeſt to <hi>ſeek his face,</hi> as he was wont to do; God doth not ſpeak ſo comfortably to thee, he doth <hi>not ſpeak</hi> ſo to thine heart when thou comeſt to <hi>hear</hi> his word, as he was wont to do; God doth not make thee <hi>ſo welcom</hi> to <hi>his table</hi> when thou comeſt there, nor give thee ſuch a double portion of the marrow and fatneſs of his Or<g ref="char:EOLhyphen"/>dinances as he was wont to do. I confeſs here is a great change in the outward carriage of God, and a great abatement of the wonted ex<g ref="char:EOLhyphen"/>preſſions of his love; but there is no change at all in the mind and will of God, no abatement at all in the love of God, which is as un<g ref="char:EOLhyphen"/>changeable as God himſelf. <hi>David</hi>
+                  <pb n="112" facs="tcp:60027:58"/>loved <hi>Abſalom</hi> as dearly all that three years in which he would not endure him to come into his preſence, nor permit him to ſee his face, as he did before in any time of his life, though in wiſdom he did conceal and ſmoother his love: ſo God may conceal his love for a while, but he loves thee ſtill as well as ever.</p>
+               <p>He hath taken away the wonted influences of his Spirit from thee, but <hi>his Spirit it ſelf</hi> he hath <hi>not</hi> taken from thee.<note place="margin">Joh. 14.16.</note> Chriſts prayer and in<g ref="char:EOLhyphen"/>gagement is, that the Spirit where once he is given ſhall abide for ever. Therefore I ſay, the influences of the Spirit may be ſuſpended, but the Spirit it ſelf is not departed, as it was with <hi>Eutychus</hi> when they thought he was dead; his life, ſaith <hi>Paul,</hi> that is, his Spirit, his ſoul is in him, and yet all the influences of his ſoul into his body, either viſible to o<g ref="char:EOLhyphen"/>thers, or ſenſible to himſelf, were for the preſent ſuſpended: ſo is it here, the viſible ſenſible influences of the Spirit may be ſuſpended, but the Spirit is not departed, the band of union is not diſſolved.</p>
+               <pb n="113" facs="tcp:60027:58"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <hi>Thirdly.</hi> As it is the influence, and not the preſence of the <hi>Spirit</hi> that is withdrawn, ſo it is not the total influence of the Spirit that is withdrawn from thee, but only part of it; all the influences of the Spirit are not withdrawn, but only ſome of them. For the influences of the Spirit are of two ſorts. Ei<g ref="char:EOLhyphen"/>ther ſuch as are <hi>neceſſary to the being</hi> of a Chriſtian in the ſtate of grace, and theſe are ſecret, hidden, and unſenſible; or elſe ſuch as tend to the <hi>well</hi> and comfortable <hi>being</hi> of a Chriſtian, and theſe are evident and ſenſible: as in the body there are ſome influences of the ſoul, that are neceſſary to the animation and quickening of the body, and theſe remain when the body is in a ſwoon, though they be ſecret and hidden, and neither felt by the bo<g ref="char:EOLhyphen"/>dy it ſelf, nor diſcerned by the be<g ref="char:EOLhyphen"/>holders; other influences there are that tend to the perfection of life in the body, as tending to motion and ſenſe, theſe are both ſenſible to themſelves, and viſible in the effects
+<pb n="114" facs="tcp:60027:59"/>of them to others; now theſe latter influences of the ſoul into the bo<g ref="char:EOLhyphen"/>dy, may be ſuſpended, when yet the other are continued: ſo it is here, they are but the ſenſible and arbitrary influences of the Spirit that are ſuſpended, the neceſſary in<g ref="char:EOLhyphen"/>fluences of the Spirit are yet con<g ref="char:EOLhyphen"/>tinued.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                  <hi>Fourthly.</hi> As it is the influence and not the preſence of the Spirit that is withdrawn, and as it is but ſome of the influences, not the whole influence that is withdrawn: ſo fourthly, this influence is but ſuſpended, it is not quite cut off; and there is a great difference be<g ref="char:EOLhyphen"/>tween theſe two. If water be con<g ref="char:EOLhyphen"/>veyed through a pipe, from a foun<g ref="char:EOLhyphen"/>tain to a ciſtern; if that pipe be ſtopt, the ſtream is ſuſpended, and it is but unſtopping the pipe, re<g ref="char:EOLhyphen"/>moving the obſtruction, and the wa<g ref="char:EOLhyphen"/>ter will flow as plentifully as ever it did before; but if the ſtream be cut off or turned another way, then the caſe is otherwiſe, the matter is irrecoverable: Poor ſoul, becauſe
+<pb n="115" facs="tcp:60027:59"/>thou haſt not thoſe influences freſh and lively from the Spirit of God that thou haſt had, thou thinkeſt the ſtream is quite cut off, the heart of God thou thinkeſt is quite turn<g ref="char:EOLhyphen"/>ed away from thee. Alas, thou art miſtaken; it is only the pipe is ſtopt, ſomething lyes in the way that ob<g ref="char:EOLhyphen"/>ſtructs the influences of the Spirit of God into thee; remove but that, and the influences of the Spi<g ref="char:EOLhyphen"/>rit will come in upon thee, in as full a ſtream as ever. For (which is the laſt thing that I have to propound to thee for thy conſolation) thou muſt not think</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                  <hi>In the fifth</hi> place; That becauſe God hides himſelf, and withdraws himſelf, and carries himſelf at pre<g ref="char:EOLhyphen"/>ſent, not as a friend, but rather as a ſtranger, as an enemy to thee, do not think that he will alwayes do ſo. When he hath ſaid plainly, <hi>He will not alwayes chide;</hi>
+                  <note place="margin">Pſal. 103.9. Iſa. 57.16. I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am. 3.31, 32.</note> 
+                  <hi>neither keepeth he his anger for ever. He will not con<g ref="char:EOLhyphen"/>tend for ever, neither will he be alwayes wroth. He will not caſt off for ever. But though he cauſe grief, yet will he have
+<pb n="116" facs="tcp:60027:60"/>compaſſion according to the multitude of his mercies.</hi> Theſe are clear and expreſs promiſes of a true and faith<g ref="char:EOLhyphen"/>ful God; heaven and earth ſhall fail before one word or tittle of theſe promiſes ſhall fail. It is therefore a great infirmity in thee, to think, that becauſe God now hides his face from thee, he will do ſo for ever; or becauſe, that God ſeems to be fallen out with thee, therefore he will never more be friends with thee. Thus to think, is I ſay, a great infirmity in thee. So <hi>Aſaph</hi> ac<g ref="char:EOLhyphen"/>knowledgeth for himſelf, when he had been queſtioning with his own ſoul. <hi>Will the Lord caſt off for ever? and will he be favourable no more?</hi>
+                  <note place="margin">Pſal. 77.7, 8, 9, 10.</note> 
+                  <hi>Is his mercy clean gone for ever? doth his promiſe fail for ever? Hath God for<g ref="char:EOLhyphen"/>gotten to be gracious? hath he in anger ſhut up his tender mercies?</hi> He con<g ref="char:EOLhyphen"/>cludes, <hi>This is my infirmity.</hi> As who ſhould ſay, It is a great weakneſs in me ſo to imagine; ſo it is in thee, if thou doſt ſo think.</p>
+               <p>Theſe things thus premiſed, as grounds of hope and conſolation,
+<pb n="117" facs="tcp:60027:60"/>I proceed now to ſhew what courſe you muſt take to recover favour with God, and your acquaintance with him again. And ſo,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>Firſt.</hi> Enquire whether you have not given God cauſe thus to eſtrange and abſent himſelf from you, and break off acquaintance with you. To that end make uſe of the parti<g ref="char:EOLhyphen"/>culars laid down before. 1. Enquire whether you have not fallen into ſome known and groſs ſin. 2. Whe<g ref="char:EOLhyphen"/>ther you have not held too much correſpondence with, and delighted too much in the company of wicked and ungodly men. 3. Whether you have not been too much carried a<g ref="char:EOLhyphen"/>way with the inordinate love of the world, and of the things of the world. 4. Whether you have not too much abſented your ſelves from God, and neglected your wonted and appointed times of meeting him, and acquainting your ſelves with him. 5. Whether you have not dealt unfriendly with God, by en<g ref="char:EOLhyphen"/>tertaining jealouſies and hard thoughts of God. And, 6. giving
+<pb n="118" facs="tcp:60027:61"/>too much credit to Satans lyes, and ſlanders. Inquire ſeriouſly, whether you have not been guilty in ſome or other of theſe particulars; for uſu<g ref="char:EOLhyphen"/>ally, I muſt tell you, the breach be<g ref="char:EOLhyphen"/>gins on our part, we give God cauſe to eſtrange himſelf from us. When thou haſt done this: Then,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>Secondly.</hi> Take the counſel the holy Ghoſt gives; <hi>Do this now, my Son,</hi>
+                  <note place="margin">Prov. 6.3.</note> 
+                  <hi>and deliver thy ſelf, when thou art come into the hand of thy</hi> friend: <hi>go, humble thy ſelf, and make ſure thy friend.</hi> Or as the Margent reads it, <hi>Go humble thy ſelf, and prevail with thy friend.</hi> Humble thy ſelf, that is the way to prevail with God, and to make him yet thy ſure friend, though he ſeems to be thine enemy. Hum<g ref="char:EOLhyphen"/>ble thy ſelf, and that upon a twofold account.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <hi>Firſt.</hi> For the ſad condition that thou art in at preſent.</p>
+               <p>
+                  <hi>Secondly.</hi> For the ſin that hath brought thee into this ſad condition.</p>
+               <p>
+                  <hi>Firſt.</hi> Humble thy ſelf for the ſad condition that thou art in. Think and ſay thus to thy ſelf, <q>Wo is
+<pb n="119" facs="tcp:60027:61"/>me for my God, my life is depart<g ref="char:EOLhyphen"/>ed from me, and how am I chang<g ref="char:EOLhyphen"/>ed? O how was I wont to meet God in his Ordinances? and what ſweet communion and acquaint<g ref="char:EOLhyphen"/>ance had I once with him, but now he hides himſelf, and will not come at me.</q> I pray, but he hears me not; I hearken after him, but he ſpeaks not; I call, but he anſwers not. Behold, <hi>I go forward, but he is not there; and backward,</hi>
+                  <note place="margin">Job 23.8, 9.</note> 
+                  <hi>but I cannot find him. On the left hand where he doth work, but I cannot behold him: he hideth himſe f on the right hand, that I cannot ſee him.</hi> And ſay again as <hi>Job; O that it were with me as in moneths paſt,</hi>
+                  <note place="margin">Job 29.2, 3, 4.</note> 
+                  <hi>as in the dayes when God preſerved me: When his candle ſhined upon my head, and when by his light I walked through darkneſs. When the ſe<g ref="char:EOLhyphen"/>cret of God was upon my tabernacle, and the Almighty was yet with me.</hi> It is an excellent meditation <hi>Bernard</hi> hath to this purpoſe. <q>Whence comes this barrenneſs that poſſeſs<g ref="char:EOLhyphen"/>eth my ſoul? whence is it that my heart is dryed up like a bottle in
+<pb n="120" facs="tcp:60027:62"/>the ſmoke, and my ſoul is like the dry and parched wilderneſs? <hi>Non poſſum lachrymas fundere,</hi>
+                     <note place="margin">
+                        <hi>Bern.</hi> in Cant. Ser<g ref="char:EOLhyphen"/>mon. <hi>74.</hi>
+                     </note> I cannot weep, I find no ſavour in Pſalms, I have no delight in reading of the Scriptures; prayer doth not re<g ref="char:EOLhyphen"/>freſh me, I have no heart to me<g ref="char:EOLhyphen"/>ditation, or any thing that is good. <hi>Hei mihi,</hi> Wo is me! God viſit<g ref="char:EOLhyphen"/>eth the mountains of my compa<g ref="char:EOLhyphen"/>nions, but skips over my moun<g ref="char:EOLhyphen"/>tain, and never toucheth it. Here is one raviſhed into the third hea<g ref="char:EOLhyphen"/>vens in holy meditations. There is another prays, as if he would rend the heavens with his pray<g ref="char:EOLhyphen"/>ers; another excels in zeal, ano<g ref="char:EOLhyphen"/>ther in patience, another in humi<g ref="char:EOLhyphen"/>lity, another in holineſs.</q> Theſe are Souls whom God viſits, theſe are "mountains upon which God com<g ref="char:EOLhyphen"/>mands the rain of bleſſing, <hi>Sed ego miſer qui nihil horum ſentio,</hi> but wretched I that feel none of theſe things; what am I but as one of the mountains of <hi>Gilboa,</hi> upon whom there falls neither dew nor rain, nor are there fields of offering
+<pb n="121" facs="tcp:60027:62"/>there. Thus humble thy ſelf, and bewail thy ſtate and condition.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>Secondly.</hi> Humble thy ſelf again, for thy ſin that hath brought thee into this ſad condition. <q>Think and ſay thus with thy ſelf. Oh, what a thing is this, that I ſhould by my ſin provoke him to leave me, in whoſe preſence I have had ſuch life, ſuch light, ſuch liberty, ſuch peace, ſuch joy. <hi>O wretch that I am!</hi> that that communion and ac<g ref="char:EOLhyphen"/>quaintance that I had with God, was of no more eſteem with me, but that I ſhould thus loſe it by my folly! I have been careful to keep my intereſt &amp; acquaintance with this and that man, but have not been careful to keep my inte<g ref="char:EOLhyphen"/>reſt and acquaintance with God.</q> That which I begged with tears, and was many a year a getting, how have I by my ſin loſt it on a ſudden? O what have I done againſt my God, yea againſt my ſelf? O my folly, that have loſt that for want of care, that now I would redeem again, if it were poſſible, with my blood.</p>
+               <pb n="122" facs="tcp:60027:63"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <hi>Thirdly.</hi> Follow God with mourn<g ref="char:EOLhyphen"/>ful cryes and prayers, beg of him that he would return unto thee, and renew acquaintance with thee; im<g ref="char:EOLhyphen"/>portune him by all the ancient love that hath been between him and thee, that he would be gracious yet unto thee; put him in mind of <hi>his an<g ref="char:EOLhyphen"/>cient love to thee.</hi> Say as the Church, <hi>Lord,</hi>
+                  <note place="margin">Pſal. 89.49.</note> 
+                  <hi>where are thy former loving kind<g ref="char:EOLhyphen"/>neſſes? Lord,</hi> what is become of all that love which ſometimes thou ba<g ref="char:EOLhyphen"/>reſt and expreſſedſt to thy worth<g ref="char:EOLhyphen"/>leſs ſervant? And humbly put God in remembrance <hi>of thy ancient love to him;</hi> ſeeing God is pleaſed to be ſo gracious as to vouchſafe to remem<g ref="char:EOLhyphen"/>ber it.<note place="margin">Jer. 2.2.</note> 
+                  <hi>I remember thee, the kindneſs of thy youth, the love of thine eſpouſals, when thou wenteſt after me in the wil<g ref="char:EOLhyphen"/>derneſs,</hi> &amp;c. Entreat God to remem<g ref="char:EOLhyphen"/>ber, there was a time when thy love was more vigorous, and more fer<g ref="char:EOLhyphen"/>vent to him than it is now, when thou couldſt have followed him through a wilderneſs, through a ſea, through fire and water; tel him, it is thy grief that thou canſt not ſo love him now:
+<pb n="123" facs="tcp:60027:63"/>entreat him by <hi>renewing his love</hi> to thee, to <hi>revive thy love</hi> to him, beg of him that all old kindneſſes may not be forgotten; caſt up thy weeping eyes with the ſad complaint of a bleeding ſoul to thy ancient friend, and his bowels will roll, his com<g ref="char:EOLhyphen"/>paſſions will relent towards thee.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                  <hi>Fourthly.</hi> Submit to any conditi<g ref="char:EOLhyphen"/>ons of reconcilement, and accept of the loweſt degree of reſtaurati<g ref="char:EOLhyphen"/>on to favour and acquaintance with God. Say, <hi>Lord,</hi> chide, rebuke, ſmite me, command, impoſe, do what thou wilt with me, <hi>only caſt me not out of thy preſence, caſhiere me not</hi> wholly and for ever: ſay as the <hi>poor Prodigal, Make me but as one of thine hired ſervants:</hi> as the <hi>woman of</hi> Ca<g ref="char:EOLhyphen"/>naan, <hi>Let me but gather up the crumbs among the dogs.</hi> 
+                  <q>Lord, if I have ſo far ſinned, as that I may not be re<g ref="char:EOLhyphen"/>ſtored to that degree of nearneſs that I had before, if I may not have a place among thy children, among thy friends; Lord ſet me among thy ſervants, thy hired ſer<g ref="char:EOLhyphen"/>vants, yea, if it be but among the
+<pb n="124" facs="tcp:60027:64"/>dogs of thy family, Lord, ſo I may be in thy preſence, and ſee thy face I ſhall be thankful even for ſo much.</q>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                  <hi>Fifthly.</hi> Go to the Lord Jeſus Chriſt, the <hi>Dayes-man,</hi> the <hi>Friend-maker,</hi> between <hi>God</hi> and <hi>Enemies;</hi> much more between <hi>God,</hi> and thoſe that ſometimes were <hi>his friends.</hi> Go to him, pray him to take thee by the hand, yet once again, and recon<g ref="char:EOLhyphen"/>cile thee anew to God. He as <hi>God,</hi> is a <hi>middle perſon</hi> between the <hi>Father</hi> and the <hi>Spirit;</hi> and as <hi>God-man,</hi> he is a <hi>middle Perſon</hi> between <hi>God</hi> and <hi>Man:</hi> he is our <hi>Peace,</hi> he is our <hi>Ad<g ref="char:EOLhyphen"/>vocate</hi> with the <hi>Father.</hi> Who with <hi>one</hi> appearing in heaven for us, with <hi>one</hi> opening of his mouth, can make <hi>God</hi> and <hi>us friends,</hi> if we had never been friends before; therefore go to him, ingage him by his <hi>Name,</hi> by his <hi>Office,</hi> by his <hi>Undertakings,</hi> to do this for thee.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                  <hi>Sixthly.</hi> Go to the Saints of God that are upon earth, that are Gods favourite and acquaintance, make thy caſe known to them, entreat
+<pb n="125" facs="tcp:60027:64"/>them to ſtrive with God in prayer for thee. This direction God gave the friends of <hi>Job,</hi> as you may ſee in Chapt. 42. v. 8. <hi>Go to my ſervant</hi> Job, <hi>and my ſervant</hi> Job <hi>ſhall pray for you, for him will I accept.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+                  <hi>Seventhly.</hi> Whatever the iſſue of this thy mourning, praying, and go<g ref="char:EOLhyphen"/>ing to Chriſt, begging the prayers of others be; though God ſhould hide his face ſtil, &amp; carry it ſtrange<g ref="char:EOLhyphen"/>ly, ſtill, yet think thou, and ſpeak thou honourably of God however. Following that preſident of the <hi>Pſalmiſt,</hi> or rather of the Lord <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> of whom the Pſalmiſt was but a type. <hi>My God, my God, why haſt thou forſaken me?</hi>
+                  <note place="margin">Pſal. 22.1, 2, 3.</note> 
+                  <hi>Why art thou ſo far from helping me, &amp;c. But thou art holy, O thou that inhabiteſt the praiſes of Iſrael.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/>
+                  <hi>Laſtly.</hi> If God yet ſeem ſtill to be angry with thee, take the coun<g ref="char:EOLhyphen"/>ſel the holy Ghoſt gives. <hi>When the ſpirit of the Ruler riſeth up againſt thee leave not thy place,</hi>
+                  <note place="margin">Eccleſ. 10.4.</note> 
+                  <hi>for yielding paci<g ref="char:EOLhyphen"/>fieth great offences.</hi> So now, when the Spirit of God ſeems to be provoked againſt thee, leave not thy place,
+<pb n="126" facs="tcp:60027:65"/>leave not thy ſtation, leave not pray<g ref="char:EOLhyphen"/>ing, and hearing, and waiting upon God in all holy Ordinances. <hi>Henry the fourth, Emperor</hi> of <hi>Germany,</hi> wait<g ref="char:EOLhyphen"/>ed three whole dayes in the depth of Winter, bare-foot and bare-leg<g ref="char:EOLhyphen"/>ged at the gate of the Pope's Ca<g ref="char:EOLhyphen"/>ſtle, before he could obtain admiſſi<g ref="char:EOLhyphen"/>on into his preſence, and recover his grace and favour. Upon occaſion of a diſpleaſure conceived by the <hi>Pope</hi> againſt the City and State of <hi>Venice. Franciſcus Dandalus,</hi> after<g ref="char:EOLhyphen"/>wards <hi>Duke of Venice,</hi> was ſent Em<g ref="char:EOLhyphen"/>baſſador to <hi>Rome</hi> to ſeek reconcilia<g ref="char:EOLhyphen"/>tion; and when no other means would mollifie the Pope's proud and inraged heart, the Prince at length ſo far abaſed himſelf, as to put upon his neck a coller and chain, and couch under the Pope's table, like a dog at his feet, to ſee if by that means he might at length obtain.</p>
+               <p>Now ſhall <hi>Princes</hi> and <hi>Emperors</hi> thus a<g ref="char:EOLhyphen"/>baſe themſelves in ſeeking the favour of a mortal man, and wait in theſe abaſements long; O <hi>how low</hi> ſhould we lye, how <hi>long ſhould we wait,</hi> if by any means, or at any time we may recover the favour of God, and readmiſſion into his preſence!</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:60027:65"/>
+         </div>
+      </body>
+   </text>
+</TEI>
